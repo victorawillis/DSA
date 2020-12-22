@@ -1,4 +1,4 @@
-// Vic Willis VAW42D, LaB 6, CS2050 Summer 2018
+// Vic Willis - towers of hanoi via stack
 
 #include <stdio.h>
 #include <stdlib.h>
