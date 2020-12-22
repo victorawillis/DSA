@@ -1,0 +1,10 @@
+3.48 1.14 Jim
+2.23 2.26 Jack
+3.45 3.67 Tim
+2.95 4.87 Amy
+3.02 5.43 Joe
+3.78 6.68 Guillherme
+4.00 7.75 Frank
+3.95 8.99 Brandon
+3.56 9.79 Nicolle
+4.00 10.00 Kolton
