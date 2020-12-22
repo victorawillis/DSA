@@ -1,4 +1,4 @@
-// Vic Willis VAW42D Lab7 CS2050 Summer 2018
+// Vic Willis - bst tree traveral
 #include <stdio.h>
 #include <stdlib.h>
 
