@@ -1,4 +1,4 @@
-// Vic Willis, VAW42D, Section B Lab 4, CS2050, Summer 2018
+// Vic Willis - grades merge sort
 #include <stdio.h>
 #include <stdlib.h>
 
