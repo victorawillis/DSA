@@ -1,0 +1,5000 @@
+18472,Waymart,PA
+37742,Greenback,TN
+16845,Karthaus,PA
+28781,Topton,NC
+98929,Goose Prairie,WA
+66933,Barnes,KS
+52316,North English,IA
+42236,Herndon,KY
+31743,De Soto,GA
+28731,Flat Rock,NC
+90801,Long Beach,CA
+61728,Colfax,IL
+60545,Plano,IL
+24740,Princeton,WV
+49623,Chase,MI
+8217,Elwood,NJ
+4460,Medway,ME
+4668,Princeton,ME
+43722,Buffalo,OH
+16229,Freeport,PA
+79778,Rankin,TX
+57791,Wasta,SD
+850,Kingshill,VI
+53003,Ashippun,WI
+27592,Willow Spring,NC
+96141,Homewood,CA
+40385,Waco,KY
+61042,Harmon,IL
+79366,Ransom Canyon,TX
+5463,Isle La Motte,VT
+47362,New Castle,IN
+39460,Moss,MS
+1260,South Lee,MA
+51338,Everly,IA
+76841,Fort Mc Kavett,TX
+6478,Oxford,CT
+25043,Clay,WV
+62024,East Alton,IL
+85614,Green Valley,AZ
+43322,Green Camp,OH
+77473,San Felipe,TX
+55385,Stewart,MN
+27054,Woodleaf,NC
+51030,Lawton,IA
+7827,Montague,NJ
+985,Carolina,PR
+17763,Ralston,PA
+36322,Daleville,AL
+95677,Rocklin,CA
+98327,Dupont,WA
+36507,Bay Minette,AL
+40856,Miracle,KY
+25515,Gallipolis Ferry,WV
+38342,Hollow Rock,TN
+41601,Allen,KY
+57041,Lyons,SD
+72718,Cave Springs,AR
+2768,Raynham Center,MA
+83424,Felt,ID
+1605,Worcester,MA
+17537,Lampeter,PA
+55971,Rushford,MN
+21756,Keedysville,MD
+87008,Cedar Crest,NM
+26074,West Liberty,WV
+72528,Dolph,AR
+20678,Prince Frederick,MD
+7928,Chatham,NJ
+61772,Shirley,IL
+85337,Gila Bend,AZ
+68361,Geneva,NE
+65101,Jefferson City,MO
+29145,Silverstreet,SC
+71405,Ball,LA
+64469,Maysville,MO
+23408,Marionville,VA
+98321,Buckley,WA
+25860,Lanark,WV
+49043,Covert,MI
+60079,Waukegan,IL
+68858,Miller,NE
+18371,Tamiment,PA
+98597,Yelm,WA
+45688,Waterloo,OH
+76511,Bartlett,TX
+41544,Mc Carr,KY
+38259,Trimble,TN
+11968,Southampton,NY
+7777,Holmdel,NJ
+66543,Vassar,KS
+45944,Cincinnati,OH
+18602,Bear Creek,PA
+65486,Iberia,MO
+78607,Bluffton,TX
+75680,Minden,TX
+49070,Martin,MI
+38871,Thaxton,MS
+47862,Montezuma,IN
+47356,Middletown,IN
+61537,Henry,IL
+37737,Friendsville,TN
+97336,Crawfordsville,OR
+59452,Hobson,MT
+57578,Wewela,SD
+39753,Mayhew,MS
+54964,Pickett,WI
+94523,Pleasant Hill,CA
+66546,Wakarusa,KS
+42159,Oakland,KY
+35747,Grant,AL
+71477,Tioga,LA
+38226,Dukedom,TN
+87004,Bernalillo,NM
+24715,Bramwell,WV
+75435,Deport,TX
+10985,Thompson Ridge,NY
+67654,Norton,KS
+85911,Cibecue,AZ
+68934,Deweese,NE
+17577,Soudersburg,PA
+76628,Brandon,TX
+91324,Northridge,CA
+77864,Madisonville,TX
+33770,Largo,FL
+55010,Castle Rock,MN
+62949,Hurst,IL
+51459,Ralston,IA
+52329,Rowley,IA
+50627,Eldora,IA
+78381,Rockport,TX
+45336,Kettlersville,OH
+48831,Elsie,MI
+60531,Leland,IL
+93277,Visalia,CA
+37387,Tracy City,TN
+47038,Patriot,IN
+78401,Corpus Christi,TX
+52166,Saint Lucas,IA
+93921,Carmel,CA
+28787,Weaverville,NC
+77830,Anderson,TX
+14847,Interlaken,NY
+19954,Houston,DE
+37363,Ooltewah,TN
+47401,Bloomington,IN
+67951,Hugoton,KS
+38242,Paris,TN
+27543,Kipling,NC
+60540,Naperville,IL
+76527,Florence,TX
+62935,Galatia,IL
+22719,Etlan,VA
+38614,Clarksdale,MS
+37052,Cunningham,TN
+96764,Laupahoehoe,HI
+23070,Hardyville,VA
+64077,Orrick,MO
+28033,Crouse,NC
+21727,Emmitsburg,MD
+11413,Springfield Gardens,NY
+36025,Elmore,AL
+77384,Conroe,TX
+48175,Salem,MI
+57068,Valley Springs,SD
+28097,Locust,NC
+22969,Schuyler,VA
+82930,Evanston,WY
+40807,Benham,KY
+80807,Burlington,CO
+44638,Lakeville,OH
+49648,Kewadin,MI
+21532,Frostburg,MD
+95042,New Almaden,CA
+27051,Walkertown,NC
+55363,Montrose,MN
+58201,Grand Forks,ND
+97050,Rufus,OR
+70431,Bush,LA
+11377,Woodside,NY
+32430,Clarksville,FL
+12941,Jay,NY
+63559,Novinger,MO
+31714,Ashburn,GA
+56024,Eagle Lake,MN
+75661,Karnack,TX
+63445,Kahoka,MO
+49251,Leslie,MI
+57383,White Lake,SD
+15005,Baden,PA
+56216,Blomkest,MN
+78349,Concepcion,TX
+63450,Lentner,MO
+18013,Bangor,PA
+8050,Manahawkin,NJ
+87539,La Madera,NM
+97396,Willamina,OR
+83111,Auburn,WY
+67840,Englewood,KS
+49626,Eastlake,MI
+24853,Kimball,WV
+61936,La Place,IL
+68430,Roca,NE
+15770,Ringgold,PA
+60178,Sycamore,IL
+55052,Morristown,MN
+95946,Penn Valley,CA
+76388,Weinert,TX
+97833,Haines,OR
+62284,Smithboro,IL
+69021,Benkelman,NE
+29385,Wellford,SC
+67118,Norwich,KS
+34652,New Port Richey,FL
+6858,Norwalk,CT
+17883,Vicksburg,PA
+81067,Rocky Ford,CO
+30701,Calhoun,GA
+96032,Fort Jones,CA
+58244,Inkster,ND
+79511,Coahoma,TX
+30546,Hiawassee,GA
+23140,Providence Forge,VA
+39167,Star,MS
+12601,Poughkeepsie,NY
+52030,Andrew,IA
+3839,Rochester,NH
+1564,Sterling,MA
+14098,Lyndonville,NY
+62478,West York,IL
+62442,Martinsville,IL
+4097,North Yarmouth,ME
+37308,Birchwood,TN
+61545,Lowpoint,IL
+18850,Ulster,PA
+26173,Sherman,WV
+35447,Carrollton,AL
+65635,Dadeville,MO
+3043,Francestown,NH
+43942,Powhatan Point,OH
+51330,Allendorf,IA
+40958,Kettle Island,KY
+73654,Leedey,OK
+63936,Dudley,MO
+62466,Sumner,IL
+26105,Vienna,WV
+95699,Drytown,CA
+5604,Montpelier,VT
+48170,Plymouth,MI
+92101,San Diego,CA
+46794,Wawaka,IN
+99012,Fairfield,WA
+41053,Kenton,KY
+90731,San Pedro,CA
+27890,Weldon,NC
+71082,Vivian,LA
+62615,Auburn,IL
+53930,Endeavor,WI
+82513,Dubois,WY
+38957,Sumner,MS
+34741,Kissimmee,FL
+46156,Milroy,IN
+48883,Shepherd,MI
+68945,Heartwell,NE
+13364,Leonardsville,NY
+30074,Redan,GA
+72439,Light,AR
+6154,Hartford,CT
+51510,Carter Lake,IA
+49446,New Era,MI
+12167,Stamford,NY
+43436,Isle Saint George,OH
+67563,Offerle,KS
+51235,Doon,IA
+12823,Cossayuna,NY
+21644,Ingleside,MD
+56235,Donnelly,MN
+42235,Hadley,KY
+34990,Palm City,FL
+27946,Hobbsville,NC
+27052,Walnut Cove,NC
+68023,Fort Calhoun,NE
+73572,Walters,OK
+15412,Allenport,PA
+12914,Bombay,NY
+66040,La Cygne,KS
+54962,Ogdensburg,WI
+59715,Bozeman,MT
+1585,West Brookfield,MA
+20451,Washington,DC
+29574,Mullins,SC
+98042,Kent,WA
+48315,Utica,MI
+19022,Crum Lynne,PA
+60969,Union Hill,IL
+66440,Hoyt,KS
+56514,Barnesville,MN
+5454,Fairfax,VT
+77568,La Marque,TX
+63953,Naylor,MO
+41351,Mistletoe,KY
+45745,Lower Salem,OH
+31319,Meridian,GA
+66050,Lecompton,KS
+78945,La Grange,TX
+61021,Dixon,IL
+58773,Powers Lake,ND
+26377,Jacksonburg,WV
+68975,Saronville,NE
+75474,Quinlan,TX
+45849,Grover Hill,OH
+57774,Provo,SD
+42209,Brooklyn,KY
+92253,La Quinta,CA
+30002,Avondale Estates,GA
+36022,Deatsville,AL
+51061,Washta,IA
+74010,Bristow,OK
+27863,Pikeville,NC
+71075,Springhill,LA
+44406,Canfield,OH
+16319,Cranberry,PA
+3249,Gilford,NH
+38866,Saltillo,MS
+95494,Yorkville,CA
+64484,Rushville,MO
+15945,Parkhill,PA
+43939,Mount Pleasant,OH
+66538,Seneca,KS
+19317,Chadds Ford,PA
+36481,Vredenburgh,AL
+23106,Manquin,VA
+48421,Columbiaville,MI
+17527,Gap,PA
+71007,Bethany,LA
+15772,Rossiter,PA
+27929,Currituck,NC
+97112,Cloverdale,OR
+29348,Gramling,SC
+59484,Sweet Grass,MT
+70047,Destrehan,LA
+44662,Navarre,OH
+14548,Shortsville,NY
+43523,Grelton,OH
+27876,Seaboard,NC
+21556,Pinto,MD
+18439,Lakewood,PA
+17055,Mechanicsburg,PA
+82060,Hillsdale,WY
+99625,Levelock,AK
+14556,Sonyea,NY
+62301,Quincy,IL
+54612,Arcadia,WI
+39664,Smithdale,MS
+37726,Deer Lodge,TN
+49910,Bergland,MI
+97410,Azalea,OR
+47335,Dublin,IN
+71366,Saint Joseph,LA
+35054,Cropwell,AL
+48088,Warren,MI
+84743,Kingston,UT
+63543,Gorin,MO
+42733,Elk Horn,KY
+50578,Ringsted,IA
+72666,Parthenon,AR
+44094,Willoughby,OH
+58074,Wahpeton,ND
+52361,Williamsburg,IA
+40020,Fairfield,KY
+2364,Kingston,MA
+21643,Hurlock,MD
+27016,Danbury,NC
+56074,Nicollet,MN
+15082,Sturgeon,PA
+53008,Brookfield,WI
+54149,Mountain,WI
+99103,Almira,WA
+54137,Krakow,WI
+61067,Ridott,IL
+85237,Kearny,AZ
+60031,Gurnee,IL
+83638,Mccall,ID
+14818,Burdett,NY
+95365,Planada,CA
+68003,Ashland,NE
+2808,Bradford,RI
+4634,Franklin,ME
+67047,Fall River,KS
+56248,Herman,MN
+80640,Henderson,CO
+95514,Blocksburg,CA
+71726,Chidester,AR
+3749,Enfield Center,NH
+89822,Carlin,NV
+67566,Partridge,KS
+55364,Mound,MN
+80735,Idalia,CO
+49090,South Haven,MI
+27972,Salvo,NC
+6605,Bridgeport,CT
+67031,Conway Springs,KS
+15781,Walston,PA
+1721,Ashland,MA
+77629,Nome,TX
+45711,Amesville,OH
+42715,Breeding,KY
+44413,East Palestine,OH
+50138,Knoxville,IA
+81656,Woody Creek,CO
+28773,Saluda,NC
+95632,Galt,CA
+55956,Mazeppa,MN
+2894,Wood River Junction,RI
+650,Florida,PR
+91011,La Canada Flintridge,CA
+54601,La Crosse,WI
+83845,Moyie Springs,ID
+28307,Fort Bragg,NC
+52753,Le Claire,IA
+50163,Melcher,IA
+64863,South West City,MO
+21229,Baltimore,MD
+32350,Pinetta,FL
+24590,Scottsville,VA
+4605,Ellsworth,ME
+7052,West Orange,NJ
+61422,Bushnell,IL
+26210,Adrian,WV
+87549,Ojo Caliente,NM
+31084,Seville,GA
+92316,Bloomington,CA
+19395,Westtown,PA
+18435,Lackawaxen,PA
+14027,Brant,NY
+37853,Rockford,TN
+4619,Calais,ME
+16743,Port Allegany,PA
+27259,Highfalls,NC
+77571,La Porte,TX
+65735,Quincy,MO
+53538,Fort Atkinson,WI
+22715,Brightwood,VA
+32452,Noma,FL
+71253,Kilbourne,LA
+50218,Patterson,IA
+59226,Froid,MT
+36436,Dickinson,AL
+35501,Jasper,AL
+36353,Newville,AL
+75132,Fate,TX
+12493,West Park,NY
+99546,Adak,AK
+50835,Benton,IA
+17759,Nisbet,PA
+4224,Dixfield,ME
+83123,La Barge,WY
+12745,Hortonville,NY
+35019,Baileyton,AL
+98029,Issaquah,WA
+35180,Warrior,AL
+28771,Robbinsville,NC
+45836,Dunkirk,OH
+44011,Avon,OH
+42731,Dubre,KY
+62447,Neoga,IL
+52101,Decorah,IA
+98923,Cowiche,WA
+37080,Joelton,TN
+19421,Birchrunville,PA
+30545,Helen,GA
+53549,Jefferson,WI
+6388,West Mystic,CT
+65690,Couch,MO
+59244,Larslan,MT
+77657,Lumberton,TX
+38744,Glen Allan,MS
+3109,Manchester,NH
+12446,Kerhonkson,NY
+15531,Boswell,PA
+32443,Greenwood,FL
+6001,Avon,CT
+19454,North Wales,PA
+17583,West Willow,PA
+80727,Eckley,CO
+20777,Highland,MD
+80428,Clark,CO
+13628,Deferiet,NY
+62273,Pierron,IL
+36912,Lisman,AL
+59521,Box Elder,MT
+3811,Atkinson,NH
+36742,Gallion,AL
+50240,Saint Charles,IA
+59030,Gardiner,MT
+48476,Vernon,MI
+51554,Mineola,IA
+16650,Hopewell,PA
+95140,Mount Hamilton,CA
+51460,Ricketts,IA
+79742,Grandfalls,TX
+83533,Greencreek,ID
+22511,Lottsburg,VA
+12566,Pine Bush,NY
+2815,Clayville,RI
+73641,Dill City,OK
+32446,Marianna,FL
+70668,Vinton,LA
+50274,Wiota,IA
+35130,Quinton,AL
+4653,Bass Harbor,ME
+17220,Dry Run,PA
+41159,Martha,KY
+22435,Callao,VA
+88301,Carrizozo,NM
+76377,Petrolia,TX
+25849,Glen White,WV
+18401,Aldenville,PA
+7728,Freehold,NJ
+23974,Victoria,VA
+72821,Altus,AR
+42406,Corydon,KY
+64022,Dover,MO
+48075,Southfield,MI
+73770,Southard,OK
+98240,Custer,WA
+51557,Mondamin,IA
+17884,Washingtonville,PA
+35462,Eutaw,AL
+75573,Redwater,TX
+95304,Tracy,CA
+68620,Albion,NE
+45020,Hamilton,OH
+83630,Huston,ID
+41833,Linefork,KY
+29009,Bethune,SC
+62840,Frankfort Heights,IL
+35648,Lexington,AL
+11749,Islandia,NY
+64498,Westboro,MO
+956,Bayamon,PR
+48419,Carsonville,MI
+51003,Alton,IA
+54564,Tripoli,WI
+88264,Maljamar,NM
+43501,Alvordton,OH
+1864,North Reading,MA
+82335,Walcott,WY
+95558,Petrolia,CA
+2664,South Yarmouth,MA
+17776,Waterville,PA
+37191,Woodlawn,TN
+65284,Sturgeon,MO
+7006,Caldwell,NJ
+26818,Fisher,WV
+8732,Island Heights,NJ
+40601,Frankfort,KY
+78885,Vanderpool,TX
+82063,Jelm,WY
+15944,New Florence,PA
+40340,Nicholasville,KY
+36922,Ward,AL
+42374,South Carrollton,KY
+1824,Chelmsford,MA
+43080,Utica,OH
+40111,Cloverport,KY
+77970,La Ward,TX
+20193,Reston,VA
+71428,Flora,LA
+49028,Bronson,MI
+63370,Olney,MO
+62964,Mounds,IL
+37860,Russellville,TN
+37870,Speedwell,TN
+4679,Southwest Harbor,ME
+98559,Malone,WA
+21041,Ellicott City,MD
+3431,Keene,NH
+17545,Manheim,PA
+21636,Goldsboro,MD
+67643,Jennings,KS
+32423,Bascom,FL
+61375,Varna,IL
+49326,Gowen,MI
+44889,Wakeman,OH
+59044,Laurel,MT
+81143,Moffat,CO
+93451,San Miguel,CA
+66748,Humboldt,KS
+58541,Golden Valley,ND
+38930,Greenwood,MS
+49781,Saint Ignace,MI
+11030,Manhasset,NY
+80547,Timnath,CO
+95237,Lockeford,CA
+14041,Dayton,NY
+24618,Harman,VA
+49332,Mecosta,MI
+2108,Boston,MA
+49656,Luther,MI
+54485,Summit Lake,WI
+13355,Hubbardsville,NY
+64853,Newtonia,MO
+27508,Bunn,NC
+8846,Middlesex,NJ
+14539,Retsof,NY
+64644,Hamilton,MO
+68813,Anselmo,NE
+32192,Sparr,FL
+87009,Cedarvale,NM
+62446,Mount Erie,IL
+53029,Hartland,WI
+52729,Calamus,IA
+62996,Villa Ridge,IL
+77971,Lolita,TX
+39323,Chunky,MS
+36471,Peterman,AL
+50576,Rembrandt,IA
+1583,West Boylston,MA
+65251,Fulton,MO
+34265,Arcadia,FL
+39756,Prairie,MS
+26814,Riverton,WV
+49288,Waldron,MI
+3256,New Hampton,NH
+15771,Rochester Mills,PA
+76475,Strawn,TX
+10538,Larchmont,NY
+58533,Elgin,ND
+95372,Soulsbyville,CA
+17901,Pottsville,PA
+5440,Alburg,VT
+32746,Lake Mary,FL
+79549,Snyder,TX
+33852,Lake Placid,FL
+80643,Keenesburg,CO
+40027,Harrods Creek,KY
+13136,Pitcher,NY
+41568,Stopover,KY
+84003,American Fork,UT
+36860,Hurtsboro,AL
+58755,Mcgregor,ND
+4764,Oxbow,ME
+74340,Disney,OK
+38382,Trenton,TN
+25686,Newtown,WV
+66727,Coyville,KS
+41812,Deane,KY
+43511,Custar,OH
+41433,Gapville,KY
+66868,Reading,KS
+36740,Forkland,AL
+40845,Hulen,KY
+80437,Evergreen,CO
+73093,Washington,OK
+17038,Jonestown,PA
+46788,Spencerville,IN
+76073,Paradise,TX
+95314,Dardanelle,CA
+8048,Lumberton,NJ
+13684,Russell,NY
+39741,Cedarbluff,MS
+85942,Woodruff,AZ
+4973,Searsmont,ME
+62537,Harristown,IL
+30724,Eton,GA
+15417,Brownsville,PA
+13680,Rensselaer Falls,NY
+7055,Passaic,NJ
+66755,Moran,KS
+50255,Thornburg,IA
+72073,Humphrey,AR
+17306,Bendersville,PA
+47926,Burnettsville,IN
+45871,New Knoxville,OH
+18508,Scranton,PA
+63623,Belleview,MO
+26155,New Martinsville,WV
+38953,Scobey,MS
+69367,Whitney,NE
+72852,Oark,AR
+71070,Saline,LA
+49768,Paradise,MI
+37118,Milton,TN
+80758,Wray,CO
+52401,Cedar Rapids,IA
+5468,Milton,VT
+99833,Petersburg,AK
+681,Mayaguez,PR
+1807,Woburn,MA
+40145,Hudson,KY
+13114,Mexico,NY
+68372,Hickman,NE
+36919,Silas,AL
+88030,Deming,NM
+98351,Longbranch,WA
+52632,Keokuk,IA
+55781,Side Lake,MN
+47434,Harrodsburg,IN
+25981,Quinwood,WV
+54822,Cameron,WI
+38390,Yuma,TN
+29744,Van Wyck,SC
+61940,Metcalf,IL
+36762,Morvin,AL
+62034,Glen Carbon,IL
+37376,Sherwood,TN
+96780,Papaaloa,HI
+97467,Reedsport,OR
+656,Guayanilla,PR
+68066,Wahoo,NE
+86339,Sedona,AZ
+61239,Carbon Cliff,IL
+5664,Northfield Falls,VT
+60029,Golf,IL
+70556,Mermentau,LA
+25523,Hamlin,WV
+54565,Upson,WI
+55312,Brownton,MN
+83615,Donnelly,ID
+74344,Grove,OK
+43457,Risingsun,OH
+29461,Moncks Corner,SC
+25141,Nebo,WV
+57420,Akaska,SD
+41004,Brooksville,KY
+6141,Hartford,CT
+4428,Eddington,ME
+27855,Murfreesboro,NC
+75935,Center,TX
+3107,Manchester,NH
+39576,Waveland,MS
+34760,Oakland,FL
+73532,Duke,OK
+67301,Independence,KS
+55390,Waverly,MN
+73801,Woodward,OK
+28610,Claremont,NC
+89425,Orovada,NV
+31302,Bloomingdale,GA
+24553,Gladstone,VA
+18053,Germansville,PA
+41735,Delphia,KY
+75413,Bailey,TX
+62691,Virginia,IL
+93245,Lemoore,CA
+65656,Galena,MO
+38067,Saulsbury,TN
+35963,Dawson,AL
+93560,Rosamond,CA
+89020,Amargosa Valley,NV
+75123,Desoto,TX
+57350,Huron,SD
+32560,Gonzalez,FL
+75074,Plano,TX
+61490,Woodhull,IL
+44096,Willoughby,OH
+79329,Idalou,TX
+95665,Pine Grove,CA
+54486,Tigerton,WI
+56727,Grygla,MN
+62643,Hartsburg,IL
+72631,Eureka Springs,AR
+13678,Raymondville,NY
+35954,Attalla,AL
+3774,North Haverhill,NH
+29536,Dillon,SC
+28447,Ivanhoe,NC
+12151,Round Lake,NY
+66753,Mc Cune,KS
+55722,Coleraine,MN
+29452,Jacksonboro,SC
+47139,Little York,IN
+67063,Hillsboro,KS
+50433,Dougherty,IA
+46741,Grabill,IN
+53515,Black Earth,WI
+12125,New Lebanon,NY
+74881,Wellston,OK
+15778,Timblin,PA
+76445,Desdemona,TX
+62275,Pocahontas,IL
+66555,Marysville,KS
+61570,Washburn,IL
+49725,De Tour Village,MI
+68718,Bloomfield,NE
+30133,Douglasville,GA
+28573,Pollocksville,NC
+17699,Lancaster,PA
+57720,Buffalo,SD
+58545,Hazen,ND
+49266,Osseo,MI
+14836,Dalton,NY
+48621,Fairview,MI
+77514,Anahuac,TX
+6784,Sherman,CT
+49001,Kalamazoo,MI
+57317,Bonesteel,SD
+99755,Denali National Park,AK
+62468,Toledo,IL
+51028,Kingsley,IA
+2356,North Easton,MA
+89704,Washoe Valley,NV
+27586,Vaughan,NC
+93928,Jolon,CA
+62294,Troy,IL
+54527,Glidden,WI
+64636,Coffey,MO
+55016,Cottage Grove,MN
+14860,Lodi,NY
+92346,Highland,CA
+69027,Enders,NE
+96761,Lahaina,HI
+80104,Castle Rock,CO
+71956,Mountain Pine,AR
+48040,Marysville,MI
+72936,Greenwood,AR
+60551,Sheridan,IL
+5444,Cambridge,VT
+32663,Lowell,FL
+11772,Patchogue,NY
+17813,Beavertown,PA
+45152,Morrow,OH
+66426,Fostoria,KS
+67355,Niotaze,KS
+52211,Brooklyn,IA
+31772,Oakfield,GA
+78064,Pleasanton,TX
+50041,Bradford,IA
+7837,Glasser,NJ
+40751,Marydell,KY
+86018,Parks,AZ
+8734,Lanoka Harbor,NJ
+97825,Dayville,OR
+83227,Clayton,ID
+81427,Ouray,CO
+93940,Monterey,CA
+26138,Brohard,WV
+30156,Kennesaw,GA
+57629,Glad Valley,SD
+15616,Armbrust,PA
+41137,Firebrick,KY
+32043,Green Cove Springs,FL
+25685,Naugatuck,WV
+60429,Hazel Crest,IL
+57445,Groton,SD
+71414,Clarence,LA
+65658,Golden,MO
+42128,Drake,KY
+81077,Swink,CO
+43791,White Cottage,OH
+16115,Darlington,PA
+77325,Humble,TX
+74959,Spiro,OK
+53507,Barneveld,WI
+83655,New Plymouth,ID
+12858,Paradox,NY
+76803,Brownwood,TX
+52140,Dorchester,IA
+39525,Diamondhead,MS
+50528,Cylinder,IA
+24562,Howardsville,VA
+82083,Rock River,WY
+7446,Ramsey,NJ
+98926,Ellensburg,WA
+26408,Mount Clare,WV
+19002,Ambler,PA
+30643,Hartwell,GA
+41444,Ivyton,KY
+75657,Jefferson,TX
+6702,Waterbury,CT
+96925,Piti,GU
+73538,Elgin,OK
+39218,Richland,MS
+28649,Mc Grady,NC
+45777,Sharpsburg,OH
+58423,Chaseley,ND
+71264,Oak Ridge,LA
+45309,Brookville,OH
+59430,Denton,MT
+60150,Malta,IL
+83425,Hamer,ID
+76828,Burkett,TX
+94920,Belvedere Tiburon,CA
+8810,Dayton,NJ
+13650,Henderson,NY
+12912,Au Sable Forks,NY
+36853,Dadeville,AL
+69020,Bartley,NE
+98532,Chehalis,WA
+48819,Dansville,MI
+48838,Greenville,MI
+23888,Wakefield,VA
+68768,Pilger,NE
+74875,Tryon,OK
+53825,Stitzer,WI
+12508,Beacon,NY
+98062,Seahurst,WA
+61726,Chenoa,IL
+81052,Lamar,CO
+45390,Union City,OH
+41310,Bays,KY
+17022,Elizabethtown,PA
+33301,Fort Lauderdale,FL
+15055,Lawrence,PA
+21782,Sharpsburg,MD
+15130,Mc Keesport,PA
+53919,Brandon,WI
+13428,Palatine Bridge,NY
+7105,Newark,NJ
+14172,Wilson,NY
+58472,Montpelier,ND
+54979,Van Dyne,WI
+62919,Cave In Rock,IL
+35741,Brownsboro,AL
+31303,Clyo,GA
+11780,Saint James,NY
+14733,Falconer,NY
+88429,Mount Dora,NM
+47615,Grandview,IN
+44633,Holmesville,OH
+48047,New Baltimore,MI
+66939,Courtland,KS
+38964,Vance,MS
+28584,Swansboro,NC
+18923,Fountainville,PA
+49062,Kendall,MI
+22737,Rixeyville,VA
+67476,Roxbury,KS
+19374,Toughkenamon,PA
+22747,Washington,VA
+76875,Rowena,TX
+49270,Petersburg,MI
+63347,Foley,MO
+18421,Forest City,PA
+35989,Valley Head,AL
+81615,Snowmass Village,CO
+47542,Huntingburg,IN
+16230,Hawthorn,PA
+88023,Bayard,NM
+37012,Alexandria,TN
+17966,Ravine,PA
+70373,Larose,LA
+44840,Jeromesville,OH
+38030,Finley,TN
+4283,Turner Center,ME
+46936,Greentown,IN
+56014,Bricelyn,MN
+13613,Brasher Falls,NY
+25275,Sandyville,WV
+45658,Patriot,OH
+11776,Port Jefferson Station,NY
+80623,Gilcrest,CO
+65566,Viburnum,MO
+25036,Cannelton,WV
+58327,Crary,ND
+45358,Pitsburg,OH
+21774,New Market,MD
+98530,Bucoda,WA
+43332,La Rue,OH
+50583,Sac City,IA
+24124,Narrows,VA
+16263,Yatesboro,PA
+30810,Gibson,GA
+89011,Henderson,NV
+52561,Fremont,IA
+12504,Annandale On Hudson,NY
+13030,Bridgeport,NY
+20737,Riverdale,MD
+45660,Peebles,OH
+95469,Potter Valley,CA
+48762,Spruce,MI
+99201,Spokane,WA
+24581,Norwood,VA
+15629,East Vandergrift,PA
+13842,South Kortright,NY
+13691,Theresa,NY
+63443,Hunnewell,MO
+76953,Tennyson,TX
+58250,Lankin,ND
+41714,Bear Branch,KY
+47111,Charlestown,IN
+78660,Pflugerville,TX
+11951,Mastic Beach,NY
+2368,Randolph,MA
+7712,Asbury Park,NJ
+70662,Sugartown,LA
+73501,Lawton,OK
+28124,Mount Pleasant,NC
+30668,Tignall,GA
+64653,Linneus,MO
+50119,Harvey,IA
+17953,Middleport,PA
+13113,Meridian,NY
+44669,Paris,OH
+45663,West Portsmouth,OH
+92276,Thousand Palms,CA
+56328,Flensburg,MN
+69037,Max,NE
+21902,Perry Point,MD
+65713,Niangua,MO
+61523,Chillicothe,IL
+35125,Pell City,AL
+8241,Port Republic,NJ
+25214,Winifrede,WV
+89030,North Las Vegas,NV
+56110,Adrian,MN
+58778,Ruso,ND
+93546,Mammoth Lakes,CA
+91604,Studio City,CA
+80110,Englewood,CO
+41571,Varney,KY
+19720,New Castle,DE
+55734,Eveleth,MN
+19601,Reading,PA
+49745,Hessel,MI
+13117,Montezuma,NY
+39476,Richton,MS
+44864,Perrysville,OH
+48617,Clare,MI
+52639,Montrose,IA
+37140,Only,TN
+14758,Niobe,NY
+54736,Durand,WI
+15337,Graysville,PA
+72396,Wynne,AR
+26040,Mc Mechen,WV
+4210,Auburn,ME
+5845,Irasburg,VT
+21627,Crocheron,MD
+13692,Thousand Island Park,NY
+7620,Alpine,NJ
+18957,Salford,PA
+38460,Goodspring,TN
+55380,Silver Creek,MN
+61263,Matherville,IL
+46382,Union Mills,IN
+96940,Palau,PW
+54203,Branch,WI
+29169,West Columbia,SC
+56544,Frazee,MN
+30021,Clarkston,GA
+59454,Kevin,MT
+52175,West Union,IA
+58795,Wildrose,ND
+95940,Feather Falls,CA
+6039,Lakeville,CT
+64681,Sumner,MO
+88437,Seneca,NM
+62480,Willow Hill,IL
+1007,Belchertown,MA
+60963,Rossville,IL
+62701,Springfield,IL
+37658,Hampton,TN
+3261,Northwood,NH
+63661,New Offenburg,MO
+40943,Girdler,KY
+12190,Wells,NY
+87028,La Joya,NM
+35740,Bridgeport,AL
+15658,Ligonier,PA
+48004,Anchorville,MI
+66943,Greenleaf,KS
+63751,Glenallen,MO
+68034,Kennard,NE
+39235,Jackson,MS
+56542,Fosston,MN
+57237,Gary,SD
+32718,Casselberry,FL
+20824,Bethesda,MD
+65645,Eudora,MO
+13847,Trout Creek,NY
+48034,Southfield,MI
+41422,Elsie,KY
+72653,Mountain Home,AR
+61536,Hanna City,IL
+28590,Winterville,NC
+58497,Ypsilanti,ND
+25611,Bruno,WV
+12008,Alplaus,NY
+17083,Quentin,PA
+77452,Kenney,TX
+3467,Westmoreland,NH
+93633,Kings Canyon National Pk,CA
+58210,Adams,ND
+33030,Homestead,FL
+28618,Deep Gap,NC
+64456,Grant City,MO
+61744,Gridley,IL
+77871,Normangee,TX
+18222,Drums,PA
+25262,Millwood,WV
+93227,Goshen,CA
+19352,Lincoln University,PA
+58483,Streeter,ND
+47649,Francisco,IN
+37397,Whitwell,TN
+43619,Northwood,OH
+4579,Woolwich,ME
+98585,Silver Creek,WA
+93534,Lancaster,CA
+30641,Good Hope,GA
+8001,Alloway,NJ
+89041,Pahrump,NV
+57332,Emery,SD
+41713,Avawam,KY
+55080,Stanchfield,MN
+40328,Gravel Switch,KY
+39190,Washington,MS
+15636,Harrison City,PA
+26342,Coxs Mills,WV
+93517,Bridgeport,CA
+28539,Hubert,NC
+17087,Richland,PA
+49345,Sparta,MI
+84305,Clarkston,UT
+2337,Elmwood,MA
+24827,Cyclone,WV
+87005,Bluewater,NM
+34450,Inverness,FL
+58630,Gladstone,ND
+87419,Navajo Dam,NM
+85328,Cibola,AZ
+12143,Ravena,NY
+82701,Newcastle,WY
+99745,Hughes,AK
+1452,Hubbardston,MA
+48880,Saint Louis,MI
+81431,Redvale,CO
+48649,Oakley,MI
+56253,Lake Lillian,MN
+33896,Davenport,FL
+18976,Warrington,PA
+32588,Niceville,FL
+16030,Eau Claire,PA
+47579,Santa Claus,IN
+45888,Uniopolis,OH
+2637,Cummaquid,MA
+4760,Monticello,ME
+70661,Starks,LA
+54650,Onalaska,WI
+83235,Ellis,ID
+15635,Hannastown,PA
+7718,Belford,NJ
+87820,Aragon,NM
+97049,Rhododendron,OR
+65740,Rockaway Beach,MO
+57064,Tea,SD
+67483,Tampa,KS
+75048,Sachse,TX
+14166,Van Buren Point,NY
+5149,Ludlow,VT
+23501,Norfolk,VA
+70344,Chauvin,LA
+12873,Shushan,NY
+60020,Fox Lake,IL
+82831,Arvada,WY
+8551,Ringoes,NJ
+89010,Dyer,NV
+45623,Crown City,OH
+42206,Auburn,KY
+56728,Hallock,MN
+16945,Sylvania,PA
+68452,Ong,NE
+17853,Mount Pleasant Mills,PA
+32533,Cantonment,FL
+40329,Haldeman,KY
+98504,Olympia,WA
+8104,Camden,NJ
+7755,Oakhurst,NJ
+34761,Ocoee,FL
+24343,Hillsville,VA
+88422,Gladstone,NM
+98614,Chinook,WA
+65061,Morrison,MO
+50653,Marble Rock,IA
+68939,Franklin,NE
+46074,Westfield,IN
+14030,Chaffee,NY
+59740,Mc Allister,MT
+65773,Wasola,MO
+34636,Istachatta,FL
+61520,Canton,IL
+95385,Vernalis,CA
+63638,Ellington,MO
+48321,Auburn Hills,MI
+46051,Lapel,IN
+44423,Hanoverton,OH
+24630,North Tazewell,VA
+93483,Grover Beach,CA
+43084,Woodstock,OH
+43337,Morral,OH
+29470,Ravenel,SC
+24248,Ewing,VA
+65052,Linn Creek,MO
+62622,Bluff Springs,IL
+14824,Cayuta,NY
+41558,Ransom,KY
+84739,Joseph,UT
+7930,Chester,NJ
+7851,Layton,NJ
+61078,Shannon,IL
+89423,Minden,NV
+20768,Greenbelt,MD
+10982,Tallman,NY
+62567,Stonington,IL
+14569,Warsaw,NY
+55706,Babbitt,MN
+2355,North Carver,MA
+63087,Valles Mines,MO
+23003,Ark,VA
+44999,Mansfield,OH
+83455,Victor,ID
+30629,Comer,GA
+15470,Ohiopyle,PA
+48531,Flint,MI
+90255,Huntington Park,CA
+40165,Shepherdsville,KY
+6235,Chaplin,CT
+75002,Allen,TX
+4444,Hampden,ME
+18518,Old Forge,PA
+19067,Morrisville,PA
+7184,Newark,NJ
+80103,Byers,CO
+41804,Blackey,KY
+63457,Monticello,MO
+58559,Mercer,ND
+51004,Anthon,IA
+84712,Antimony,UT
+24917,Auto,WV
+15801,Du Bois,PA
+22960,Orange,VA
+26566,Colfax,WV
+2842,Middletown,RI
+30024,Suwanee,GA
+47631,New Harmony,IN
+96921,Barrigada,GU
+92284,Yucca Valley,CA
+18635,Nescopeck,PA
+23398,Jamesville,VA
+70437,Folsom,LA
+47995,Wolcott,IN
+5658,Marshfield,VT
+62253,Keyesport,IL
+48063,Columbus,MI
+46049,Kempton,IN
+98582,Salkum,WA
+49831,Felch,MI
+31003,Allentown,GA
+19980,Woodside,DE
+13033,Cato,NY
+4924,Canaan,ME
+80654,Wiggins,CO
+38922,Coffeeville,MS
+2840,Newport,RI
+92329,Phelan,CA
+44454,Petersburg,OH
+35611,Athens,AL
+29104,Mayesville,SC
+35742,Capshaw,AL
+57559,Murdo,SD
+59825,Clinton,MT
+5067,South Pomfret,VT
+91722,Covina,CA
+38573,Monroe,TN
+62467,Teutopolis,IL
+17265,Upperstrasburg,PA
+22201,Arlington,VA
+1330,Ashfield,MA
+98511,Tumwater,WA
+50563,Manson,IA
+20714,North Beach,MD
+99683,Trapper Creek,AK
+47546,Jasper,IN
+15959,Tire Hill,PA
+29560,Lake City,SC
+95321,Groveland,CA
+31320,Midway,GA
+8326,Landisville,NJ
+73461,Wapanucka,OK
+11755,Lake Grove,NY
+58324,Cando,ND
+44123,Euclid,OH
+13755,Downsville,NY
+4041,Hiram,ME
+48115,Bridgewater,MI
+53922,Burnett,WI
+8107,Oaklyn,NJ
+28422,Bolivia,NC
+42629,Jamestown,KY
+38663,Ripley,MS
+72141,Scotland,AR
+22728,Midland,VA
+58241,Hensel,ND
+26142,Davisville,WV
+92780,Tustin,CA
+54976,Saxeville,WI
+62280,Rockwood,IL
+70715,Batchelor,LA
+43527,Holgate,OH
+43439,Lacarne,OH
+55584,Monticello,MN
+85352,Tacna,AZ
+62081,Rockbridge,IL
+31650,Willacoochee,GA
+41861,Raven,KY
+56028,Elysian,MN
+795,Juana Diaz,PR
+99134,Harrington,WA
+42084,Tolu,KY
+3034,Candia,NH
+44253,Litchfield,OH
+80737,Julesburg,CO
+83850,Pinehurst,ID
+31005,Bonaire,GA
+61731,Cropsey,IL
+61279,Reynolds,IL
+19052,Lenni,PA
+60192,Schaumburg,IL
+77536,Deer Park,TX
+56050,Kasota,MN
+57361,Marty,SD
+33775,Seminole,FL
+55721,Cohasset,MN
+62884,Sesser,IL
+29032,Cassatt,SC
+10514,Chappaqua,NY
+66533,Rossville,KS
+22726,Lignum,VA
+95436,Forestville,CA
+95812,Sacramento,CA
+28727,Edneyville,NC
+73739,Goltry,OK
+63965,Van Buren,MO
+84063,Randlett,UT
+18690,Dallas,PA
+86505,Ganado,AZ
+58554,Mandan,ND
+2030,Dover,MA
+13040,Cincinnatus,NY
+65010,Ashland,MO
+12452,Lexington,NY
+13737,Bible School Park,NY
+11378,Maspeth,NY
+39666,Summit,MS
+21842,Ocean City,MD
+56332,Garfield,MN
+84075,Syracuse,UT
+15729,Commodore,PA
+4053,Merepoint,ME
+95631,Foresthill,CA
+28580,Snow Hill,NC
+76041,Forreston,TX
+27883,Stantonsburg,NC
+5353,Townshend,VT
+68976,Smithfield,NE
+50169,Mitchellville,IA
+75928,Bon Wier,TX
+30635,Elberton,GA
+57322,Carpenter,SD
+14897,Whitesville,NY
+68752,Meadow Grove,NE
+56452,Hackensack,MN
+18824,Hop Bottom,PA
+47003,West College Corner,IN
+51234,Boyden,IA
+63558,New Cambria,MO
+6132,Hartford,CT
+47145,Milltown,IN
+3602,Alstead,NH
+8029,Glendora,NJ
+81064,Pritchett,CO
+55401,Minneapolis,MN
+48730,East Tawas,MI
+65301,Sedalia,MO
+62975,Pomona,IL
+39461,Neely,MS
+55606,Hovland,MN
+25422,Great Cacapon,WV
+99150,Malo,WA
+25958,Charmco,WV
+48473,Swartz Creek,MI
+57038,Jefferson,SD
+92257,Niland,CA
+80456,Jefferson,CO
+88341,Nogal,NM
+81232,Hillside,CO
+57628,Firesteel,SD
+57756,Manderson,SD
+40914,Big Creek,KY
+7920,Basking Ridge,NJ
+3815,Center Strafford,NH
+5034,Bridgewater,VT
+52769,Stockton,IA
+32097,Yulee,FL
+36445,Frisco City,AL
+15663,Madison,PA
+24571,Lynch Station,VA
+64870,Webb City,MO
+90748,Wilmington,CA
+38310,Adamsville,TN
+41602,Auxier,KY
+41426,Falcon,KY
+32431,Cottondale,FL
+6481,Rockfall,CT
+70422,Amite,LA
+43314,Caledonia,OH
+21411,Annapolis,MD
+613,Arecibo,PR
+4104,Portland,ME
+22953,Madison Mills,VA
+28673,Sherrills Ford,NC
+15037,Elizabeth,PA
+59074,Ryegate,MT
+3812,Bartlett,NH
+60449,Monee,IL
+72438,Leachville,AR
+65650,Flemington,MO
+15541,Friedens,PA
+54559,Saxon,WI
+17564,Penryn,PA
+79240,Lelia Lake,TX
+4274,Poland,ME
+38638,Independence,MS
+15270,Pittsburgh,PA
+44450,North Bloomfield,OH
+54640,Lynxville,WI
+64781,Roscoe,MO
+4039,Gray,ME
+71438,Hineston,LA
+43935,Martins Ferry,OH
+37877,Talbott,TN
+72332,Edmondson,AR
+50104,Gibson,IA
+39160,Sallis,MS
+4414,Brownville,ME
+46368,Portage,IN
+6075,Stafford,CT
+31726,Bronwood,GA
+4537,Boothbay,ME
+84318,Hyde Park,UT
+19375,Unionville,PA
+3765,Haverhill,NH
+52205,Anamosa,IA
+15655,Laughlintown,PA
+13431,Poland,NY
+62079,Piasa,IL
+11507,Albertson,NY
+4270,Oxford,ME
+19063,Media,PA
+15424,Confluence,PA
+78005,Bigfoot,TX
+19001,Abington,PA
+1430,Ashburnham,MA
+60640,Chicago,IL
+48758,Richville,MI
+21052,Fort Howard,MD
+58770,Parshall,ND
+25271,Ripley,WV
+29695,Hodges,SC
+24482,Verona,VA
+12197,Worcester,NY
+15049,Harwick,PA
+5439,Colchester,VT
+95201,Stockton,CA
+8738,Mantoloking,NJ
+3084,Temple,NH
+6829,Georgetown,CT
+41124,Blaine,KY
+35443,Boligee,AL
+75185,Mesquite,TX
+67854,Jetmore,KS
+62613,Athens,IL
+60074,Palatine,IL
+36549,Lillian,AL
+75691,Tatum,TX
+26404,Meadowbrook,WV
+99647,Pedro Bay,AK
+48618,Coleman,MI
+59935,Troy,MT
+15456,Lemont Furnace,PA
+42054,Kirksey,KY
+52352,Walker,IA
+15334,Garards Fort,PA
+92352,Lake Arrowhead,CA
+86321,Bagdad,AZ
+56750,Red Lake Falls,MN
+83866,Santa,ID
+64029,Grain Valley,MO
+14102,Marilla,NY
+27927,Corolla,NC
+2539,Edgartown,MA
+5875,West Glover,VT
+50177,Grinnell,IA
+70776,Saint Gabriel,LA
+49762,Naubinway,MI
+90209,Beverly Hills,CA
+40489,Waynesburg,KY
+12528,Highland,NY
+77586,Seabrook,TX
+58213,Ardoch,ND
+5039,Corinth,VT
+62856,Logan,IL
+94002,Belmont,CA
+1705,Framingham,MA
+57381,Wessington,SD
+99348,Prescott,WA
+82450,Wapiti,WY
+47247,Jonesville,IN
+36601,Mobile,AL
+76623,Avalon,TX
+77852,Deanville,TX
+38666,Sardis,MS
+8247,Stone Harbor,NJ
+35160,Talladega,AL
+5251,Dorset,VT
+63460,Novelty,MO
+73565,Ryan,OK
+7606,South Hackensack,NJ
+30571,Sautee Nacoochee,GA
+97446,Harrisburg,OR
+7826,Branchville,NJ
+3302,Concord,NH
+71635,Crossett,AR
+75144,Kerens,TX
+7645,Montvale,NJ
+91797,Pomona,CA
+42442,Nortonville,KY
+24058,Belspring,VA
+58575,Turtle Lake,ND
+44874,Savannah,OH
+49638,Harrietta,MI
+28704,Arden,NC
+2332,Duxbury,MA
+19397,Southeastern,PA
+50210,New Virginia,IA
+93618,Dinuba,CA
+1128,Springfield,MA
+50035,Bondurant,IA
+38609,Belen,MS
+54876,Stone Lake,WI
+58062,Nome,ND
+39470,Poplarville,MS
+12563,Patterson,NY
+53562,Middleton,WI
+16662,Martinsburg,PA
+66852,Gridley,KS
+99362,Walla Walla,WA
+50434,Fertile,IA
+23944,Kenbridge,VA
+2881,Kingston,RI
+12194,West Fulton,NY
+26133,Belleville,WV
+43441,Lemoyne,OH
+28434,Council,NC
+7199,Newark,NJ
+22938,Faber,VA
+20751,Deale,MD
+67135,Sedgwick,KS
+76094,Arlington,TX
+39561,Mc Henry,MS
+38772,Scott,MS
+49711,Bay Shore,MI
+93452,San Simeon,CA
+25601,Logan,WV
+12593,West Copake,NY
+59721,Cardwell,MT
+55303,Anoka,MN
+46998,Young America,IN
+31310,Hinesville,GA
+56098,Winnebago,MN
+61361,Sheffield,IL
+66776,Thayer,KS
+25301,Charleston,WV
+99607,Kalskag,AK
+38673,Taylor,MS
+59046,Lavina,MT
+44216,Clinton,OH
+27022,Lawsonville,NC
+43413,Cygnet,OH
+44022,Chagrin Falls,OH
+59467,Pendroy,MT
+31046,Juliette,GA
+28334,Dunn,NC
+93667,Tollhouse,CA
+86535,Dennehotso,AZ
+44881,Sulphur Springs,OH
+34295,Englewood,FL
+57469,Redfield,SD
+54841,Haugen,WI
+44803,Amsden,OH
+78840,Del Rio,TX
+99850,Juneau,AK
+16926,Granville Summit,PA
+19538,Maxatawny,PA
+37618,Bluff City,TN
+16322,Endeavor,PA
+30420,Cobbtown,GA
+56069,Montgomery,MN
+56669,Ray,MN
+27310,Oak Ridge,NC
+98592,Union,WA
+29102,Manning,SC
+35131,Ragland,AL
+17935,Girardville,PA
+77575,Liberty,TX
+95973,Chico,CA
+26039,Glen Easton,WV
+52555,Exline,IA
+77856,Franklin,TX
+76630,Bruceville,TX
+29481,Smoaks,SC
+45174,Terrace Park,OH
+88065,Tyrone,NM
+55771,Orr,MN
+41560,Robinson Creek,KY
+37362,Oldfort,TN
+28730,Fairview,NC
+56352,Melrose,MN
+49434,Macatawa,MI
+95301,Atwater,CA
+49048,Kalamazoo,MI
+70551,Leonville,LA
+61560,Putnam,IL
+30601,Athens,GA
+98043,Mountlake Terrace,WA
+24477,Stuarts Draft,VA
+63624,Bismarck,MO
+74343,Fairland,OK
+87942,Williamsburg,NM
+72421,Cash,AR
+17870,Selinsgrove,PA
+69210,Ainsworth,NE
+16915,Coudersport,PA
+75865,Woodlake,TX
+6471,North Branford,CT
+22965,Quinque,VA
+32114,Daytona Beach,FL
+1885,West Boxford,MA
+62805,Akin,IL
+7876,Succasunna,NJ
+52339,Tama,IA
+62258,Mascoutah,IL
+16914,Columbia Cross Roads,PA
+54537,Kennan,WI
+77371,Shepherd,TX
+56584,Twin Valley,MN
+42350,Island,KY
+44425,Hubbard,OH
+47010,Bath,IN
+61884,White Heath,IL
+36344,Hartford,AL
+92386,Sugarloaf,CA
+89023,Mercury,NV
+12827,Fort Ann,NY
+98382,Sequim,WA
+36851,Cottonton,AL
+17009,Burnham,PA
+67035,Cunningham,KS
+4461,Milford,ME
+79537,Nolan,TX
+66760,Opolis,KS
+66018,De Soto,KS
+49418,Grandville,MI
+63432,Arbela,MO
+14423,Caledonia,NY
+17760,North Bend,PA
+99746,Huslia,AK
+43783,Somerset,OH
+66101,Kansas City,KS
+44657,Minerva,OH
+99161,Palouse,WA
+10587,Shenorock,NY
+2020,Brant Rock,MA
+43727,Chandlersville,OH
+18038,Danielsville,PA
+5462,Huntington,VT
+53170,Silver Lake,WI
+54871,Shell Lake,WI
+32934,Melbourne,FL
+66940,Cuba,KS
+79566,Wingate,TX
+61368,Tiskilwa,IL
+12985,Schuyler Falls,NY
+72838,Gravelly,AR
+2324,Bridgewater,MA
+93234,Huron,CA
+46307,Crown Point,IN
+24657,Whitewood,VA
+15437,Farmington,PA
+77415,Cedar Lane,TX
+17517,Denver,PA
+45628,Frankfort,OH
+97037,Maupin,OR
+11775,Melville,NY
+13057,East Syracuse,NY
+22096,Reston,VA
+46531,Grovertown,IN
+61813,Bement,IL
+57744,Hermosa,SD
+4730,Houlton,ME
+44613,Brewster,OH
+30581,Wiley,GA
+22442,Coles Point,VA
+37818,Mosheim,TN
+47150,New Albany,IN
+85334,Ehrenberg,AZ
+44242,Kent,OH
+39144,Pattison,MS
+14809,Avoca,NY
+62572,Waggoner,IL
+21740,Hagerstown,MD
+17960,New Ringgold,PA
+46303,Cedar Lake,IN
+59546,Zortman,MT
+22611,Berryville,VA
+99329,Dixie,WA
+55092,Wyoming,MN
+27917,Barco,NC
+92581,San Jacinto,CA
+64770,Montrose,MO
+18640,Pittston,PA
+24815,Berwind,WV
+15074,Rochester,PA
+68419,Panama,NE
+25401,Martinsburg,WV
+62469,Trilla,IL
+76943,Ozona,TX
+54875,Springbrook,WI
+8349,Port Norris,NJ
+29476,Russellville,SC
+50040,Boxholm,IA
+31747,Ellenton,GA
+31512,Ambrose,GA
+64019,Centerview,MO
+36784,Thomasville,AL
+11509,Atlantic Beach,NY
+71671,Warren,AR
+66450,Louisville,KS
+14588,Willard,NY
+47577,Saint Meinrad,IN
+67417,Aurora,KS
+72851,New Blaine,AR
+17841,Mc Clure,PA
+46705,Ashley,IN
+33592,Thonotosassa,FL
+30122,Lithia Springs,GA
+61562,Rome,IL
+19036,Glenolden,PA
+50636,Greene,IA
+55912,Austin,MN
+14820,Cameron Mills,NY
+52330,Ryan,IA
+35480,Ralph,AL
+79789,Wink,TX
+40906,Barbourville,KY
+52623,Danville,IA
+4691,Whiting,ME
+7926,Brookside,NJ
+25612,Chauncey,WV
+85232,Florence,AZ
+74542,Atoka,OK
+50426,Carpenter,IA
+18234,Lattimer Mines,PA
+24896,Wolf Pen,WV
+21771,Mount Airy,MD
+26036,Dallas,WV
+26629,Little Birch,WV
+76491,Woodson,TX
+56478,Nimrod,MN
+7430,Mahwah,NJ
+28570,Newport,NC
+78538,Edcouch,TX
+67352,Longton,KS
+12070,Fort Johnson,NY
+53590,Sun Prairie,WI
+28761,Nebo,NC
+544,Holtsville,NY
+24060,Blacksburg,VA
+93590,Palmdale,CA
+61542,Lewistown,IL
+36449,Goodway,AL
+97434,Dorena,OR
+4478,Rockwood,ME
+12115,Malden Bridge,NY
+96701,Aiea,HI
+14541,Romulus,NY
+56660,Mizpah,MN
+21648,Madison,MD
+20755,Fort George G Meade,MD
+54170,Shiocton,WI
+35006,Adger,AL
+36871,Pittsview,AL
+36901,Bellamy,AL
+38330,Dyer,TN
+10956,New City,NY
+22840,Mc Gaheysville,VA
+40854,Loyall,KY
+1561,South Lancaster,MA
+36016,Clayton,AL
+22124,Oakton,VA
+96107,Coleville,CA
+73937,Felt,OK
+57646,Mound City,SD
+59833,Florence,MT
+29727,Mount Croghan,SC
+16733,Hazel Hurst,PA
+15447,Isabella,PA
+16428,North East,PA
+28091,Lilesville,NC
+32750,Longwood,FL
+38581,Rock Island,TN
+83236,Firth,ID
+17321,Fawn Grove,PA
+93444,Nipomo,CA
+4047,Parsonsfield,ME
+56375,Saint Stephen,MN
+99019,Liberty Lake,WA
+28462,Supply,NC
+49960,Rockland,MI
+32589,Pensacola,FL
+15695,Wyano,PA
+65263,Madison,MO
+48847,Ithaca,MI
+13740,Bovina Center,NY
+17212,Big Cove Tannery,PA
+92309,Baker,CA
+4628,Dennysville,ME
+34260,Manasota,FL
+75428,Commerce,TX
+83126,Smoot,WY
+13782,Hamden,NY
+15711,Anita,PA
+13159,Tully,NY
+43346,Roundhead,OH
+58569,Shields,ND
+80497,Silverthorne,CO
+18320,Analomink,PA
+14502,Macedon,NY
+52568,Martinsburg,IA
+26636,Rosedale,WV
+76519,Burlington,TX
+44878,Shiloh,OH
+66535,Saint George,KS
+12095,Johnstown,NY
+55398,Zimmerman,MN
+38701,Greenville,MS
+94978,Fairfax,CA
+71762,Smackover,AR
+74083,Wann,OK
+93625,Fowler,CA
+16136,Koppel,PA
+86053,Kaibito,AZ
+12138,Petersburg,NY
+95762,El Dorado Hills,CA
+13834,Portlandville,NY
+61776,Towanda,IL
+95437,Fort Bragg,CA
+5488,Swanton,VT
+68056,St Columbans,NE
+99573,Copper Center,AK
+61791,Bloomington,IL
+62969,Olive Branch,IL
+38387,Westport,TN
+26757,Romney,WV
+47019,East Enterprise,IN
+15367,Venetia,PA
+23064,Grimstead,VA
+23876,Rawlings,VA
+1073,Southampton,MA
+64021,Corder,MO
+47610,Chandler,IN
+60083,Wadsworth,IL
+34729,Ferndale,FL
+11554,East Meadow,NY
+37329,Englewood,TN
+35015,Alton,AL
+62974,Pittsburg,IL
+1749,Hudson,MA
+65463,Eldridge,MO
+13115,Minetto,NY
+76055,Itasca,TX
+34736,Groveland,FL
+36753,Mc Williams,AL
+3607,South Acworth,NH
+25208,Wharton,WV
+38870,Smithville,MS
+49764,Oden,MI
+54229,New Franken,WI
+87517,Carson,NM
+38568,Hilham,TN
+32735,Grand Island,FL
+50143,Leighton,IA
+89315,Ely,NV
+41219,Flatgap,KY
+42460,Sullivan,KY
+53968,Wonewoc,WI
+96055,Los Molinos,CA
+30554,Lula,GA
+41746,Happy,KY
+45850,Harrod,OH
+62552,Oakley,IL
+46164,Nineveh,IN
+15067,New Eagle,PA
+80482,Winter Park,CO
+4028,East Parsonfield,ME
+6777,New Preston Marble Dale,CT
+15674,Norvelt,PA
+55941,Hokah,MN
+24363,Mouth Of Wilson,VA
+94517,Clayton,CA
+14711,Belfast,NY
+98815,Cashmere,WA
+46144,Gwynneville,IN
+17943,Lavelle,PA
+19462,Plymouth Meeting,PA
+25674,Kermit,WV
+31542,Hoboken,GA
+16925,Gillett,PA
+2830,Harrisville,RI
+26416,Philippi,WV
+15935,Hollsopple,PA
+51566,Red Oak,IA
+62365,Plainville,IL
+56683,Tenstrike,MN
+88255,Loco Hills,NM
+94965,Sausalito,CA
+40902,Arjay,KY
+16125,Greenville,PA
+24328,Fancy Gap,VA
+2123,Boston,MA
+16334,Marble,PA
+47124,Greenville,IN
+41164,Olive Hill,KY
+1467,Still River,MA
+97391,Toledo,OR
+13655,Hogansburg,NY
+72554,Mammoth Spring,AR
+13037,Chittenango,NY
+34748,Leesburg,FL
+76638,Crawford,TX
+46706,Auburn,IN
+60129,Esmond,IL
+60190,Winfield,IL
+56551,Henning,MN
+23357,Greenbush,VA
+79381,Wilson,TX
+58054,Lisbon,ND
+5053,North Pomfret,VT
+62859,Mc Leansboro,IL
+63539,Ethel,MO
+8887,Three Bridges,NJ
+62649,Hettick,IL
+16674,Robertsdale,PA
+83116,Diamondville,WY
+45808,Beaverdam,OH
+1460,Littleton,MA
+12812,Blue Mountain Lake,NY
+97436,Elkton,OR
+25204,Twilight,WV
+79101,Amarillo,TX
+61723,Atlanta,IL
+50238,Russell,IA
+42157,Mount Hermon,KY
+40107,Boston,KY
+95376,Tracy,CA
+11854,Hicksville,NY
+68734,Emmet,NE
+95501,Eureka,CA
+6444,Marion,CT
+78588,San Isidro,TX
+63043,Maryland Heights,MO
+7869,Randolph,NJ
+43981,New Athens,OH
+96918,Umatac,GU
+47023,Holton,IN
+37348,Kelso,TN
+53521,Brooklyn,WI
+1854,Lowell,MA
+60116,Carol Stream,IL
+23662,Poquoson,VA
+51060,Ute,IA
+27379,Yanceyville,NC
+6018,Canaan,CT
+22523,Morattico,VA
+7083,Union,NJ
+3224,Canterbury,NH
+99660,Saint Paul Island,AK
+23116,Mechanicsville,VA
+37155,Saint Bethlehem,TN
+68956,Kenesaw,NE
+18962,Silverdale,PA
+33701,Saint Petersburg,FL
+28424,Brunswick,NC
+6112,Hartford,CT
+65534,Laquey,MO
+16866,Philipsburg,PA
+58260,Milton,ND
+8852,Monmouth Junction,NJ
+94901,San Rafael,CA
+50069,De Soto,IA
+6380,Taftville,CT
+25922,Spanishburg,WV
+19390,West Grove,PA
+79367,Smyer,TX
+35013,Allgood,AL
+95519,Mckinleyville,CA
+2563,Sandwich,MA
+62358,Niota,IL
+16950,Westfield,PA
+31565,Waverly,GA
+94529,Concord,CA
+80815,Flagler,CO
+44682,Tuscarawas,OH
+59445,Garneill,MT
+33109,Miami Beach,FL
+6093,West Suffield,CT
+66428,Goff,KS
+98922,Cle Elum,WA
+3770,Meriden,NH
+26075,Windsor Heights,WV
+32561,Gulf Breeze,FL
+30132,Dallas,GA
+95736,Weimar,CA
+75977,Wiergate,TX
+25030,Bomont,WV
+36087,Tuskegee Institute,AL
+76848,Hext,TX
+95547,Hydesville,CA
+68463,Weeping Water,NE
+48221,Detroit,MI
+11952,Mattituck,NY
+33439,Bryant,FL
+49792,Tower,MI
+14011,Attica,NY
+17066,Mount Union,PA
+48039,Marine City,MI
+58581,Zeeland,ND
+3583,Jefferson,NH
+67037,Derby,KS
+59531,Joplin,MT
+42251,Huntsville,KY
+11427,Queens Village,NY
+92637,Laguna Hills,CA
+38801,Tupelo,MS
+12580,Staatsburg,NY
+3465,Troy,NH
+37145,Pleasant Shade,TN
+6129,Wethersfield,CT
+67446,Glen Elder,KS
+50106,Gilman,IA
+73031,Dibble,OK
+81248,Sargents,CO
+28625,Statesville,NC
+44859,Nova,OH
+50055,Collins,IA
+99615,Kodiak,AK
+66402,Auburn,KS
+77630,Orange,TX
+68756,Neligh,NE
+37711,Bulls Gap,TN
+62015,Butler,IL
+62999,Zeigler,IL
+62923,Cypress,IL
+41091,Union,KY
+29816,Bath,SC
+72150,Sheridan,AR
+37324,Decherd,TN
+77334,Dodge,TX
+44619,Damascus,OH
+31712,Arabi,GA
+45775,Rutland,OH
+7045,Montville,NJ
+24966,Renick,WV
+72565,Oxford,AR
+58014,Chaffee,ND
+33841,Fort Meade,FL
+29487,Wadmalaw Island,SC
+25936,Thurmond,WV
+8025,Ewan,NJ
+25083,Gallagher,WV
+81129,Conejos,CO
+95969,Paradise,CA
+95917,Biggs,CA
+6813,Danbury,CT
+8404,Atlantic City,NJ
+85607,Douglas,AZ
+75683,Ore City,TX
+6490,Southport,CT
+4457,Lincoln,ME
+97426,Creswell,OR
+5848,Lower Waterford,VT
+60541,Newark,IL
+75764,Gallatin,TX
+32052,Jasper,FL
+11096,Inwood,NY
+47170,Scottsburg,IN
+27842,Henrico,NC
+75554,Avery,TX
+93252,Maricopa,CA
+1431,Ashby,MA
+63877,Steele,MO
+68879,Taylor,NE
+62087,South Roxana,IL
+38855,Mantachie,MS
+84031,Hanna,UT
+79357,Ralls,TX
+56556,Mcintosh,MN
+41075,Fort Thomas,KY
+29835,Mc Cormick,SC
+17232,Lurgan,PA
+62244,Fults,IL
+72122,Paron,AR
+21653,Newcomb,MD
+78886,Yancey,TX
+67336,Chetopa,KS
+41843,Pine Top,KY
+49627,Eastport,MI
+1224,Berkshire,MA
+53120,East Troy,WI
+83025,Teton Village,WY
+59027,Emigrant,MT
+74942,Leflore,OK
+70777,Slaughter,LA
+45681,South Salem,OH
+18012,Aquashicola,PA
+60918,Buckley,IL
+30812,Gracewood,GA
+29439,Folly Beach,SC
+32733,Goldenrod,FL
+23884,Sussex,VA
+45843,Forest,OH
+14094,Lockport,NY
+36541,Grand Bay,AL
+25916,Sabine,WV
+58361,Pekin,ND
+68047,Pender,NE
+16058,Turkey City,PA
+13620,Castorland,NY
+31763,Leesburg,GA
+84050,Morgan,UT
+47234,Flat Rock,IN
+54459,Ogema,WI
+8888,Whitehouse,NJ
+38669,Sherard,MS
+56527,Deer Creek,MN
+61344,Mineral,IL
+698,Yauco,PR
+26535,Hazelton,WV
+52313,Mount Auburn,IA
+95944,Goodyears Bar,CA
+27350,Sophia,NC
+35048,Clay,AL
+43048,Mount Liberty,OH
+18469,Tyler Hill,PA
+72041,De Valls Bluff,AR
+41719,Bonnyman,KY
+61955,Vermilion,IL
+68460,Waco,NE
+30627,Carlton,GA
+24435,Fairfield,VA
+76267,Slidell,TX
+75476,Ravenna,TX
+95401,Santa Rosa,CA
+85540,Morenci,AZ
+90749,Carson,CA
+62083,Rosamond,IL
+44134,Cleveland,OH
+75101,Bardwell,TX
+42069,Melber,KY
+28108,Mineral Springs,NC
+67052,Goddard,KS
+67865,Minneola,KS
+51401,Carroll,IA
+12009,Altamont,NY
+94950,Olema,CA
+56715,Brooks,MN
+1742,Concord,MA
+47006,Batesville,IN
+57029,Freeman,SD
+57371,Ree Heights,SD
+10927,Haverstraw,NY
+97917,Riverside,OR
+76682,Riesel,TX
+38543,Alpine,TN
+68937,Elwood,NE
+40348,Millersburg,KY
+95936,Downieville,CA
+24137,Penhook,VA
+76379,Scotland,TX
+65675,Hurley,MO
+47112,Corydon,IN
+24221,Blackwater,VA
+98082,Bothell,WA
+50075,Ellsworth,IA
+31087,Sparta,GA
+72434,Imboden,AR
+65286,Triplett,MO
+39175,Utica,MS
+33844,Haines City,FL
+16695,Woodbury,PA
+72672,Pyatt,AR
+73749,Jet,OK
+19409,Fairview Village,PA
+32241,Jacksonville,FL
+27215,Burlington,NC
+91358,Thousand Oaks,CA
+69120,Arnold,NE
+83636,Letha,ID
+52172,Waukon,IA
+79719,Barstow,TX
+70083,Port Sulphur,LA
+67481,Sylvan Grove,KS
+43766,New Straitsville,OH
+71418,Columbia,LA
+24826,Cucumber,WV
+55791,Twig,MN
+52033,Cascade,IA
+73050,Langston,OK
+50630,Fredericksburg,IA
+77318,Willis,TX
+66414,Carbondale,KS
+2346,Middleboro,MA
+56025,Easton,MN
+26634,Perkins,WV
+24319,Chilhowie,VA
+99919,Thorne Bay,AK
+66010,Blue Mound,KS
+62344,Huntsville,IL
+18954,Richboro,PA
+75844,Grapeland,TX
+58368,Rugby,ND
+47901,Lafayette,IN
+23915,Baskerville,VA
+64847,Lanagan,MO
+36736,Dixons Mills,AL
+46952,Marion,IN
+75158,Scurry,TX
+17371,York New Salem,PA
+55947,La Crescent,MN
+27526,Fuquay Varina,NC
+4768,Portage,ME
+68772,Rose,NE
+72843,Hector,AR
+62675,Petersburg,IL
+95245,Mokelumne Hill,CA
+79323,Denver City,TX
+55320,Clearwater,MN
+20197,Waterford,VA
+39115,Midnight,MS
+11724,Cold Spring Harbor,NY
+89411,Genoa,NV
+92322,Cedarpines Park,CA
+36278,Wedowee,AL
+58440,Fredonia,ND
+54861,Odanah,WI
+7880,Vienna,NJ
+57053,Parker,SD
+6798,Woodbury,CT
+36260,Eastaboga,AL
+86443,Temple Bar Marina,AZ
+35077,Hanceville,AL
+35446,Buhl,AL
+31033,Haddock,GA
+85920,Alpine,AZ
+46041,Frankfort,IN
+68069,Waterloo,NE
+57056,Rowena,SD
+1984,Wenham,MA
+49420,Hart,MI
+16361,Tylersburg,PA
+41011,Covington,KY
+14035,Collins Center,NY
+77464,Orchard,TX
+48159,Maybee,MI
+64844,Granby,MO
+16156,Volant,PA
+24974,Secondcreek,WV
+32310,Tallahassee,FL
+21055,Garrison,MD
+81654,Snowmass,CO
+53157,Pell Lake,WI
+56523,Climax,MN
+38232,Hornbeak,TN
+72143,Searcy,AR
+2184,Braintree,MA
+74463,Taft,OK
+35444,Brookwood,AL
+75029,Lewisville,TX
+92325,Crestline,CA
+52076,Strawberry Point,IA
+35491,West Greene,AL
+75798,Tyler,TX
+62943,Grantsburg,IL
+49829,Escanaba,MI
+59856,Paradise,MT
+57260,Rosholt,SD
+13501,Utica,NY
+11729,Deer Park,NY
+57649,Prairie City,SD
+46176,Shelbyville,IN
+72756,Rogers,AR
+18240,Nesquehoning,PA
+24312,Austinville,VA
+25524,Harts,WV
+99832,Pelican,AK
+45015,Hamilton,OH
+32094,Wellborn,FL
+14058,Elba,NY
+4932,Dixmont,ME
+82933,Fort Bridger,WY
+84335,Smithfield,UT
+83277,Springfield,ID
+97111,Carlton,OR
+30220,Grantville,GA
+58042,Harwood,ND
+98936,Moxee,WA
+82512,Crowheart,WY
+95543,Gasquet,CA
+68727,Coleridge,NE
+87535,Glorieta,NM
+90291,Venice,CA
+19078,Ridley Park,PA
+26524,Bretz,WV
+40452,Mitchellsburg,KY
+50633,Geneva,IA
+17858,Numidia,PA
+1347,Lake Pleasant,MA
+70637,Dry Creek,LA
+54771,Thorp,WI
+6234,Brooklyn,CT
+91947,Lincoln Acres,CA
+45380,Versailles,OH
+43525,Haskins,OH
+14545,Scottsburg,NY
+52338,Swisher,IA
+8858,Oldwick,NJ
+52132,Calmar,IA
+62370,Rockport,IL
+50033,Bevington,IA
+50149,Lorimor,IA
+56592,Winger,MN
+50220,Perry,IA
+32407,Panama City Beach,FL
+38372,Savannah,TN
+52358,West Branch,IA
+4738,Crouseville,ME
+61553,Norris,IL
+47845,Coalmont,IN
+13670,Oswegatchie,NY
+38736,Doddsville,MS
+64487,Skidmore,MO
+67838,Deerfield,KS
+25682,Meador,WV
+83119,Fairview,WY
+53177,Sturtevant,WI
+4225,Dryden,ME
+65259,Huntsville,MO
+24225,Cleveland,VA
+12846,Lake Luzerne,NY
+81647,New Castle,CO
+44130,Cleveland,OH
+70647,Iowa,LA
+63665,Redford,MO
+50074,Ellston,IA
+53110,Cudahy,WI
+41390,Whick,KY
+83861,Saint Maries,ID
+8320,Fairton,NJ
+72460,Ravenden Springs,AR
+90230,Culver City,CA
+49130,Union,MI
+55944,Kasson,MN
+43016,Dublin,OH
+63376,Saint Peters,MO
+68944,Harvard,NE
+45054,Oregonia,OH
+38632,Hernando,MS
+48462,Ortonville,MI
+56358,Ogilvie,MN
+7060,Plainfield,NJ
+22122,Newington,VA
+33836,Davenport,FL
+83619,Fruitland,ID
+13624,Clayton,NY
+18619,Hillsgrove,PA
+12943,Keene Valley,NY
+37335,Flintville,TN
+54560,Sayner,WI
+63829,Cardwell,MO
+68822,Broken Bow,NE
+56475,Randall,MN
+70397,Theriot,LA
+73101,Oklahoma City,OK
+24536,Coleman Falls,VA
+75858,Ratcliff,TX
+1028,East Longmeadow,MA
+85609,Dragoon,AZ
+75943,Douglass,TX
+55943,Houston,MN
+3844,Hampton Falls,NH
+46786,South Milford,IN
+95636,Grizzly Flats,CA
+17768,Shunk,PA
+21656,Price,MD
+26136,Big Bend,WV
+1904,Lynn,MA
+6263,Rogers,CT
+67422,Bennington,KS
+70354,Galliano,LA
+26148,Macfarlan,WV
+17268,Waynesboro,PA
+13744,Castle Creek,NY
+19541,Mohrsville,PA
+46501,Argos,IN
+67364,Tyro,KS
+62272,Percy,IL
+15681,Saltsburg,PA
+72740,Huntsville,AR
+49287,Tipton,MI
+56650,Kelliher,MN
+53579,Reeseville,WI
+64438,Darlington,MO
+74421,Beggs,OK
+37848,Powder Springs,TN
+93601,Ahwahnee,CA
+4780,Smyrna Mills,ME
+73729,Cleo Springs,OK
+51351,Milford,IA
+4854,Owls Head,ME
+15081,South Heights,PA
+74055,Owasso,OK
+55935,Fountain,MN
+76099,Grapevine,TX
+82714,Devils Tower,WY
+82720,Hulett,WY
+11542,Glen Cove,NY
+76450,Graham,TX
+4658,Milbridge,ME
+63781,Sedgewickville,MO
+30645,High Shoals,GA
+17751,Mill Hall,PA
+19072,Narberth,PA
+13648,Harrisville,NY
+62252,Huey,IL
+85901,Show Low,AZ
+26587,Rachel,WV
+78017,Dilley,TX
+11545,Glen Head,NY
+823,Christiansted,VI
+99157,Northport,WA
+75065,Lake Dallas,TX
+7533,Paterson,NJ
+77338,Humble,TX
+38059,Newbern,TN
+11004,Glen Oaks,NY
+48820,Dewitt,MI
+46940,La Fontaine,IN
+36321,Cowarts,AL
+68935,Edgar,NE
+30417,Claxton,GA
+21797,Woodbine,MD
+50027,Barnes City,IA
+95607,Capay,CA
+54895,Weyerhaeuser,WI
+4847,Hope,ME
+61265,Moline,IL
+71064,Plain Dealing,LA
+91909,Chula Vista,CA
+15320,Carmichaels,PA
+44260,Mogadore,OH
+6876,Redding Ridge,CT
+6794,Washington Depot,CT
+12923,Churubusco,NY
+45886,Scott,OH
+11552,West Hempstead,NY
+77368,Romayor,TX
+59036,Harlowton,MT
+80653,Weldona,CO
+68982,Wilcox,NE
+67836,Coolidge,KS
+43462,Rudolph,OH
+92369,Patton,CA
+23308,Bloxom,VA
+65653,Forsyth,MO
+5062,Reading,VT
+59729,Ennis,MT
+14591,Wyoming,NY
+75022,Flower Mound,TX
+58445,Grace City,ND
+73026,Norman,OK
+45338,Lewisburg,OH
+89835,Wells,NV
+37755,Helenwood,TN
+77978,Point Comfort,TX
+93450,San Ardo,CA
+24658,Wolford,VA
+29672,Seneca,SC
+44615,Carrollton,OH
+71425,Enterprise,LA
+23920,Brodnax,VA
+80823,Karval,CO
+80116,Franktown,CO
+14040,Darien Center,NY
+95720,Kyburz,CA
+46167,Pittsboro,IN
+8230,Ocean View,NJ
+98020,Edmonds,WA
+52569,Melrose,IA
+77835,Burton,TX
+50052,Clio,IA
+32336,Lamont,FL
+6142,Hartford,CT
+57475,Tolstoy,SD
+93531,Keene,CA
+56470,Park Rapids,MN
+89007,Bunkerville,NV
+63834,Charleston,MO
+44660,Mount Hope,OH
+87579,Vadito,NM
+65723,Pierce City,MO
+97026,Gervais,OR
+87042,Peralta,NM
+53105,Burlington,WI
+45345,New Lebanon,OH
+54865,Port Wing,WI
+17086,Richfield,PA
+22448,Dahlgren,VA
+46733,Decatur,IN
+20163,Sterling,VA
+20151,Chantilly,VA
+41512,Ashcamp,KY
+82729,Sundance,WY
+27330,Sanford,NC
+96703,Anahola,HI
+11710,Bellmore,NY
+6783,Roxbury,CT
+25621,Gilbert,WV
+55923,Chatfield,MN
+44231,Garrettsville,OH
+97149,Neskowin,OR
+55372,Prior Lake,MN
+18821,Great Bend,PA
+44847,Monroeville,OH
+24378,Trout Dale,VA
+15033,Donora,PA
+12590,Wappingers Falls,NY
+97634,Midland,OR
+50650,Lamont,IA
+7407,Elmwood Park,NJ
+38627,Etta,MS
+77661,Stowell,TX
+959,Bayamon,PR
+17074,Newport,PA
+75846,Jewett,TX
+19939,Dagsboro,DE
+48837,Grand Ledge,MI
+13363,Lee Center,NY
+12036,Charlotteville,NY
+84644,Meadow,UT
+25855,Hilltop,WV
+92143,San Ysidro,CA
+56267,Morris,MN
+39474,Prentiss,MS
+14450,Fairport,NY
+22134,Quantico,VA
+21022,Brooklandville,MD
+64076,Odessa,MO
+82219,Jay Em,WY
+11975,Wainscott,NY
+15329,Prosperity,PA
+92230,Cabazon,CA
+12544,Mellenville,NY
+29849,Ulmer,SC
+28356,Linden,NC
+24529,Buffalo Junction,VA
+48418,Byron,MI
+62268,Oakdale,IL
+19557,Stony Run,PA
+79734,Fort Davis,TX
+35699,Decatur,AL
+37779,Luttrell,TN
+32615,Alachua,FL
+82501,Riverton,WY
+97640,Summer Lake,OR
+31040,Dublin,GA
+64458,Hatfield,MO
+68632,David City,NE
+63023,Dittmer,MO
+19952,Harrington,DE
+76249,Krum,TX
+72390,West Helena,AR
+16939,Morris Run,PA
+89428,Silver City,NV
+87736,Rainsville,NM
+59547,Zurich,MT
+45618,Cherry Fork,OH
+5747,Granville,VT
+2462,Newton Lower Falls,MA
+49315,Byron Center,MI
+17057,Middletown,PA
+62961,Millcreek,IL
+4345,Gardiner,ME
+79316,Brownfield,TX
+19320,Coatesville,PA
+71029,Gilliam,LA
+1653,Worcester,MA
+13865,Windsor,NY
+49265,Onsted,MI
+27827,Falkland,NC
+64683,Trenton,MO
+77583,Rosharon,TX
+44441,Negley,OH
+66956,Mankato,KS
+94028,Portola Valley,CA
+52226,Elwood,IA
+59262,Savage,MT
+18070,Palm,PA
+71630,Arkansas City,AR
+65077,Steedman,MO
+86411,Hackberry,AZ
+6281,Woodstock,CT
+26521,Blacksville,WV
+22843,Mount Solon,VA
+16142,New Wilmington,PA
+51034,Mapleton,IA
+18612,Dallas,PA
+5764,Poultney,VT
+2293,Boston,MA
+96070,Obrien,CA
+92270,Rancho Mirage,CA
+61480,Stronghurst,IL
+782,Comerio,PR
+50036,Boone,IA
+29412,Charleston,SC
+90706,Bellflower,CA
+64090,Strasburg,MO
+62958,Makanda,IL
+29676,Salem,SC
+55378,Savage,MN
+96008,Bella Vista,CA
+61428,Dahinda,IL
+38017,Collierville,TN
+17959,New Philadelphia,PA
+38746,Gunnison,MS
+16634,Dudley,PA
+45331,Greenville,OH
+70559,Morse,LA
+53006,Brownsville,WI
+5255,Manchester Center,VT
+44422,Greenford,OH
+46970,Peru,IN
+27213,Bonlee,NC
+45644,Kingston,OH
+37150,Red Boiling Springs,TN
+56256,Madison,MN
+78550,Harlingen,TX
+15857,Saint Marys,PA
+49039,Hagar Shores,MI
+97861,Mikkalo,OR
+26572,Four States,WV
+4776,Sherman Mills,ME
+47451,Oolitic,IN
+63091,Rosebud,MO
+50257,Truro,IA
+86503,Chinle,AZ
+71348,Libuse,LA
+54491,White Lake,WI
+97451,Lorane,OR
+693,Vega Baja,PR
+97440,Eugene,OR
+57276,White,SD
+88056,Rodeo,NM
+28433,Clarkton,NC
+63660,Mineral Point,MO
+54472,Marshfield,WI
+71341,Hessmer,LA
+75006,Carrollton,TX
+53101,Bassett,WI
+83620,Fruitvale,ID
+96943,Yap,FM
+4094,West Kennebunk,ME
+16647,Hesston,PA
+73560,Olustee,OK
+73734,Dover,OK
+95930,Clipper Mills,CA
+29932,Luray,SC
+24714,Beeson,WV
+78828,Barksdale,TX
+49766,Ossineke,MI
+36041,Highland Home,AL
+53523,Cambridge,WI
+98620,Goldendale,WA
+63620,Annapolis,MO
+1810,Andover,MA
+15430,Dickerson Run,PA
+25564,Sod,WV
+7462,Vernon,NJ
+19725,Newark,DE
+95668,Pleasant Grove,CA
+46920,Cutler,IN
+22548,Sharps,VA
+7890,Branchville,NJ
+99139,Ione,WA
+56068,Minnesota Lake,MN
+34992,Port Salerno,FL
+31008,Byron,GA
+11518,East Rockaway,NY
+63633,Centerville,MO
+14520,Ontario Center,NY
+77880,Washington,TX
+65232,Benton City,MO
+53928,Doylestown,WI
+57001,Alcester,SD
+24607,Breaks,VA
+25209,Whitesville,WV
+96706,Ewa Beach,HI
+48465,Palms,MI
+28743,Hot Springs,NC
+77477,Stafford,TX
+43047,Mingo,OH
+61282,Silvis,IL
+33090,Homestead,FL
+53093,Waldo,WI
+59829,Darby,MT
+4342,Dresden,ME
+77520,Baytown,TX
+2802,Albion,RI
+44264,Peninsula,OH
+71770,Waldo,AR
+39482,Sumrall,MS
+91321,Newhall,CA
+66783,Yates Center,KS
+49746,Hillman,MI
+15555,Quecreek,PA
+73017,Cement,OK
+99669,Soldotna,AK
+25283,Valley Fork,WV
+24133,Patrick Springs,VA
+16433,Saegertown,PA
+76676,Penelope,TX
+35016,Arab,AL
+2137,Readville,MA
+55979,Utica,MN
+22580,Woodford,VA
+39601,Brookhaven,MS
+23039,Crozier,VA
+45324,Fairborn,OH
+30151,Nelson,GA
+99589,Goodnews Bay,AK
+4363,Windsor,ME
+70542,Gueydan,LA
+21617,Centreville,MD
+60827,Riverdale,IL
+45103,Batavia,OH
+12850,Middle Grove,NY
+45821,Cecil,OH
+6073,South Glastonbury,CT
+6408,Cheshire,CT
+27542,Kenly,NC
+62973,Perks,IL
+90263,Malibu,CA
+95305,Big Oak Flat,CA
+15620,Bradenville,PA
+50625,Dumont,IA
+72546,Ida,AR
+30154,Douglasville,GA
+78932,Carmine,TX
+75670,Marshall,TX
+99403,Clarkston,WA
+15434,Elco,PA
+59257,Redstone,MT
+49435,Marne,MI
+74936,Gans,OK
+43338,Mount Gilead,OH
+29447,Grover,SC
+63738,Brownwood,MO
+23857,Gasburg,VA
+25119,Kincaid,WV
+13132,Pennellville,NY
+29724,Lando,SC
+1074,South Barre,MA
+26375,Industrial,WV
+99661,Sand Point,AK
+26050,Newell,WV
+26582,Mannington,WV
+63438,Durham,MO
+92046,Escondido,CA
+81128,Chromo,CO
+19020,Bensalem,PA
+76636,Covington,TX
+96088,Shingletown,CA
+27018,East Bend,NC
+69045,Wauneta,NE
+88250,Hope,NM
+23885,Sutherland,VA
+76424,Breckenridge,TX
+99918,Coffman Cove,AK
+76485,Peaster,TX
+28661,Patterson,NC
+51245,Primghar,IA
+80107,Elizabeth,CO
+36861,Jacksons Gap,AL
+49689,Wellston,MI
+30544,Demorest,GA
+83322,Corral,ID
+1540,Oxford,MA
+61277,Prophetstown,IL
+92543,Hemet,CA
+96757,Kualapuu,HI
+70085,Saint Bernard,LA
+17264,Three Springs,PA
+87531,Embudo,NM
+45761,Millfield,OH
+95303,Ballico,CA
+57717,Belle Fourche,SD
+82426,Greybull,WY
+26412,Orlando,WV
+46150,Manilla,IN
+54880,Superior,WI
+56540,Fertile,MN
+77030,Houston,TX
+51528,Dow City,IA
+76239,Forestburg,TX
+14033,Colden,NY
+73766,Pond Creek,OK
+25259,Looneyville,WV
+4984,Temple,ME
+58243,Hoople,ND
+27358,Summerfield,NC
+77954,Cuero,TX
+50118,Hartford,IA
+82201,Wheatland,WY
+63330,Annada,MO
+15539,Fishertown,PA
+51016,Correctionville,IA
+29130,Ridgeway,SC
+94608,Emeryville,CA
+59215,Circle,MT
+16841,Howard,PA
+11976,Water Mill,NY
+50524,Clare,IA
+33873,Wauchula,FL
+57718,Black Hawk,SD
+67055,Greenwich,KS
+32618,Archer,FL
+99146,Laurier,WA
+37134,New Johnsonville,TN
+28358,Lumberton,NC
+42444,Poole,KY
+43734,Duncan Falls,OH
+99645,Palmer,AK
+62465,Strasburg,IL
+13641,Fishers Landing,NY
+4263,Leeds,ME
+28660,Olin,NC
+99638,Nikolski,AK
+10597,Waccabuc,NY
+30287,Morrow,GA
+48841,Henderson,MI
+35958,Bryant,AL
+74840,Earlsboro,OK
+95568,Somes Bar,CA
+77573,League City,TX
+33851,Lake Hamilton,FL
+24915,Arbovale,WV
+64473,Oregon,MO
+12750,Kenoza Lake,NY
+41189,Tollesboro,KY
+1434,Devens,MA
+97488,Vida,OR
+979,Carolina,PR
+20688,Solomons,MD
+5473,North Ferrisburg,VT
+32653,Gainesville,FL
+64640,Gallatin,MO
+72727,Elkins,AR
+14782,Sinclairville,NY
+53594,Waterloo,WI
+51053,Schaller,IA
+98323,Carbonado,WA
+67138,Sharon,KS
+11930,Amagansett,NY
+27371,Troy,NC
+15065,Natrona Heights,PA
+64068,Liberty,MO
+17547,Marietta,PA
+55927,Dodge Center,MN
+72630,Diamond City,AR
+24880,Rock View,WV
+74349,Ketchum,OK
+82834,Buffalo,WY
+6145,Hartford,CT
+95347,Moccasin,CA
+67410,Abilene,KS
+14748,Kill Buck,NY
+37380,South Pittsburg,TN
+35759,Meridianville,AL
+94585,Suisun City,CA
+58464,Mchenry,ND
+73436,Gene Autry,OK
+19405,Bridgeport,PA
+99169,Ritzville,WA
+45848,Glandorf,OH
+11566,Merrick,NY
+92626,Costa Mesa,CA
+87311,Church Rock,NM
+56360,Osakis,MN
+99129,Fruitland,WA
+35116,Morris,AL
+10596,Verplanck,NY
+43343,Quincy,OH
+23415,New Church,VA
+47232,Elizabethtown,IN
+25856,Jonben,WV
+96767,Lahaina,HI
+55952,Lewiston,MN
+89052,Henderson,NV
+32544,Hurlburt Field,FL
+93554,Randsburg,CA
+2284,Boston,MA
+54929,Clintonville,WI
+27356,Star,NC
+46168,Plainfield,IN
+7522,Paterson,NJ
+54246,Washington Island,WI
+3845,Intervale,NH
+76472,Santo,TX
+15942,Mineral Point,PA
+38451,Culleoka,TN
+87014,Cubero,NM
+8329,Mauricetown,NJ
+43311,Bellefontaine,OH
+54539,Lake Tomahawk,WI
+75949,Huntington,TX
+55583,Norwood,MN
+21136,Reisterstown,MD
+62533,Farmersville,IL
+73011,Bradley,OK
+84734,Hanksville,UT
+79501,Anson,TX
+62538,Harvel,IL
+66937,Clifton,KS
+98901,Yakima,WA
+98520,Aberdeen,WA
+61401,Galesburg,IL
+6851,Norwalk,CT
+62866,Nason,IL
+54143,Marinette,WI
+15720,Brush Valley,PA
+49642,Idlewild,MI
+95023,Hollister,CA
+16611,Alexandria,PA
+39661,Roxie,MS
+49780,Rudyard,MI
+99720,Allakaket,AK
+72865,Subiaco,AR
+92609,El Toro,CA
+28010,Barium Springs,NC
+83639,Marsing,ID
+39752,Mathiston,MS
+49905,Atlantic Mine,MI
+15644,Jeannette,PA
+60085,Waukegan,IL
+95427,Comptche,CA
+43450,Pemberville,OH
+18660,Wapwallopen,PA
+1611,Cherry Valley,MA
+71024,Dubberly,LA
+25428,Inwood,WV
+25118,Kimberly,WV
+84629,Fairview,UT
+45066,Springboro,OH
+58351,Minnewaukan,ND
+64471,New Hampton,MO
+55070,Saint Francis,MN
+20764,Shady Side,MD
+41824,Isom,KY
+71866,Winthrop,AR
+33920,Alva,FL
+51576,Underwood,IA
+3032,Auburn,NH
+71946,Hatton,AR
+72063,Hattieville,AR
+99032,Sprague,WA
+18621,Hunlock Creek,PA
+4066,Orrs Island,ME
+84525,Green River,UT
+36255,Cragford,AL
+67159,Zenda,KS
+96754,Kilauea,HI
+57636,Lantry,SD
+29450,Huger,SC
+71921,Amity,AR
+99665,Shageluk,AK
+2601,Hyannis,MA
+6781,Pequabuck,CT
+92397,Wrightwood,CA
+38585,Spencer,TN
+11735,Farmingdale,NY
+27509,Butner,NC
+88040,Hachita,NM
+92549,Idyllwild,CA
+13696,West Stockholm,NY
+83337,Hill City,ID
+77001,Houston,TX
+48165,New Hudson,MI
+6830,Greenwich,CT
+15647,Larimer,PA
+77240,Houston,TX
+74565,Savanna,OK
+87735,Ojo Feliz,NM
+77350,Leggett,TX
+92821,Brea,CA
+13342,Garrattsville,NY
+70469,Slidell,LA
+7950,Morris Plains,NJ
+24554,Gladys,VA
+39328,De Kalb,MS
+12801,Glens Falls,NY
+68958,Loomis,NE
+7716,Atlantic Highlands,NJ
+40322,Frenchburg,KY
+44080,Parkman,OH
+97450,Langlois,OR
+970,Guaynabo,PR
+4351,Manchester,ME
+59231,Saint Marie,MT
+44687,Walnut Creek,OH
+28383,Rowland,NC
+77327,Cleveland,TX
+78963,West Point,TX
+13343,Glenfield,NY
+2898,Wyoming,RI
+65644,Elkland,MO
+10528,Harrison,NY
+85327,Cave Creek,AZ
+63341,Defiance,MO
+95003,Aptos,CA
+28509,Alliance,NC
+39901,Atlanta,GA
+62217,Baldwin,IL
+1845,North Andover,MA
+48374,Novi,MI
+52227,Ely,IA
+44440,Mineral Ridge,OH
+28078,Huntersville,NC
+96923,Mangilao,GU
+73459,Thackerville,OK
+19099,Philadelphia,PA
+76487,Poolville,TX
+33427,Boca Raton,FL
+88345,Ruidoso,NM
+16844,Julian,PA
+99649,Pilot Point,AK
+96777,Pahala,HI
+43101,Adelphi,OH
+63079,Stanton,MO
+76890,Zephyr,TX
+15352,New Freeport,PA
+47942,Earl Park,IN
+79043,Hart,TX
+72641,Jasper,AR
+29160,Swansea,SC
+38547,Brush Creek,TN
+68929,Bloomington,NE
+44408,Columbiana,OH
+8825,Frenchtown,NJ
+23407,Mappsville,VA
+53005,Brookfield,WI
+51346,Hartley,IA
+81413,Cedaredge,CO
+68823,Burwell,NE
+73503,Fort Sill,OK
+7763,Tennent,NJ
+6062,Plainville,CT
+28006,Alexis,NC
+98396,Wilkeson,WA
+92812,Anaheim,CA
+60410,Channahon,IL
+71334,Ferriday,LA
+15865,Sykesville,PA
+49256,Morenci,MI
+29082,Lodge,SC
+54853,Luck,WI
+39630,Bude,MS
+99923,Hyder,AK
+58282,Walhalla,ND
+44251,Westfield Center,OH
+42378,Whitesville,KY
+24901,Lewisburg,WV
+15104,Braddock,PA
+56741,Oak Island,MN
+13140,Port Byron,NY
+68316,Benedict,NE
+61232,Andalusia,IL
+56448,Fifty Lakes,MN
+76578,Thrall,TX
+20752,Suitland,MD
+67431,Chapman,KS
+63544,Green Castle,MO
+95974,Richvale,CA
+62341,Hamilton,IL
+96731,Kahuku,HI
+48833,Eureka,MI
+89311,Baker,NV
+22432,Burgess,VA
+26202,Fenwick,WV
+98824,George,WA
+92368,Oro Grande,CA
+91976,Spring Valley,CA
+46791,Uniondale,IN
+53589,Stoughton,WI
+73571,Vinson,OK
+83436,Newdale,ID
+13490,Westmoreland,NY
+43964,Toronto,OH
+47126,Henryville,IN
+63501,Kirksville,MO
+14737,Franklinville,NY
+5070,South Strafford,VT
+73860,Waynoka,OK
+70067,Lafitte,LA
+17352,New Park,PA
+66958,Morrowville,KS
+43022,Gambier,OH
+37189,Whites Creek,TN
+39081,Harriston,MS
+5481,Saint Albans Bay,VT
+12140,Poestenkill,NY
+54407,Amherst Junction,WI
+72447,Monette,AR
+27856,Nashville,NC
+51017,Craig,IA
+42240,Hopkinsville,KY
+48179,South Rockwood,MI
+15026,Clinton,PA
+48864,Okemos,MI
+42367,Powderly,KY
+26339,Center Point,WV
+2113,Boston,MA
+28364,Maxton,NC
+46348,La Crosse,IN
+45845,Fort Loramie,OH
+36779,Sprott,AL
+29356,Landrum,SC
+14805,Alpine,NY
+20158,Hamilton,VA
+10964,Palisades,NY
+39745,French Camp,MS
+5304,Brattleboro,VT
+62563,Rochester,IL
+65755,Squires,MO
+85553,Tonto Basin,AZ
+60951,Martinton,IL
+86335,Rimrock,AZ
+45781,Torch,OH
+98589,Tenino,WA
+73042,Gracemont,OK
+68322,Bruning,NE
+60439,Lemont,IL
+57777,Red Owl,SD
+57071,Volga,SD
+61443,Kewanee,IL
+55942,Homer,MN
+97813,Athena,OR
+75831,Buffalo,TX
+49955,Painesdale,MI
+1057,Monson,MA
+60499,Bedford Park,IL
+12939,Gabriels,NY
+4665,Otter Creek,ME
+82061,Horse Creek,WY
+7748,Middletown,NJ
+37650,Erwin,TN
+98394,Vaughn,WA
+28583,Stonewall,NC
+62933,Energy,IL
+90280,South Gate,CA
+24226,Clinchco,VA
+36057,Mount Meigs,AL
+50068,Derby,IA
+43962,Summitville,OH
+37349,Manchester,TN
+6706,Waterbury,CT
+50616,Charles City,IA
+22847,Quicksburg,VA
+56329,Foley,MN
+48471,Sandusky,MI
+79379,Whiteface,TX
+17363,Stewartstown,PA
+61543,Liverpool,IL
+31063,Montezuma,GA
+19710,Montchanin,DE
+59201,Wolf Point,MT
+68073,Yutan,NE
+45780,The Plains,OH
+6483,Seymour,CT
+59330,Glendive,MT
+19426,Collegeville,PA
+79235,Floydada,TX
+31054,Mc Intyre,GA
+94510,Benicia,CA
+15018,Buena Vista,PA
+44802,Alvada,OH
+39054,Cary,MS
+84742,Kanarraville,UT
+63833,Catron,MO
+23358,Hacksneck,VA
+65564,Solo,MO
+98558,Mckenna,WA
+93101,Santa Barbara,CA
+96914,Yona,GU
+37640,Butler,TN
+93647,Orosi,CA
+57652,Ridgeview,SD
+24095,Goodview,VA
+38759,Merigold,MS
+20115,Marshall,VA
+47951,Kentland,IN
+40047,Mount Washington,KY
+18425,Greeley,PA
+17774,Unityville,PA
+25844,Glen Daniel,WV
+71971,Umpire,AR
+30423,Daisy,GA
+50127,Ira,IA
+5355,Wardsboro,VT
+38472,Lynnville,TN
+37361,Ocoee,TN
+32180,Pierson,FL
+71351,Marksville,LA
+97376,Seal Rock,OR
+4282,Turner,ME
+50263,Waukee,IA
+64001,Alma,MO
+95248,Rail Road Flat,CA
+20680,Ridge,MD
+55337,Burnsville,MN
+29657,Liberty,SC
+36457,Megargel,AL
+28904,Hayesville,NC
+49965,Toivola,MI
+99772,Shishmaref,AK
+76238,Era,TX
+31744,Doerun,GA
+23412,Modest Town,VA
+47683,Somerville,IN
+60147,Lafox,IL
+20260,Washington,DC
+1945,Marblehead,MA
+28438,Evergreen,NC
+68010,Boys Town,NE
+28446,Ingold,NC
+29472,Ridgeville,SC
+57716,Batesland,SD
+59414,Black Eagle,MT
+59411,Babb,MT
+2670,West Dennis,MA
+37885,Vonore,TN
+20781,Hyattsville,MD
+4859,Spruce Head,ME
+62421,Claremont,IL
+7934,Gladstone,NJ
+81638,Hamilton,CO
+83115,Daniel,WY
+43438,Kelleys Island,OH
+55939,Harmony,MN
+30120,Cartersville,GA
+45326,Fletcher,OH
+16740,Mount Jewett,PA
+38828,Blue Springs,MS
+62065,Michael,IL
+21793,Walkersville,MD
+4757,Mapleton,ME
+13028,Bernhards Bay,NY
+47648,Fort Branch,IN
+54648,Norwalk,WI
+99821,Auke Bay,AK
+78028,Kerrville,TX
+13754,Deposit,NY
+77459,Missouri City,TX
+75426,Clarksville,TX
+19039,Gradyville,PA
+58352,Munich,ND
+778,Gurabo,PR
+97118,Garibaldi,OR
+13787,Harpursville,NY
+78563,Linn,TX
+38315,Bethel Springs,TN
+61451,Laura,IL
+57051,Oldham,SD
+11742,Holtsville,NY
+53950,New Lisbon,WI
+13365,Little Falls,NY
+49111,Eau Claire,MI
+7104,Newark,NJ
+55933,Elkton,MN
+75494,Winnsboro,TX
+65401,Rolla,MO
+77316,Montgomery,TX
+96929,Yigo,GU
+88344,Pinon,NM
+62071,National Stock Yards,IL
+6084,Tolland,CT
+16141,New Galilee,PA
+18927,Hilltown,PA
+12020,Ballston Spa,NY
+25245,Given,WV
+93925,Chualar,CA
+17077,Ono,PA
+46032,Carmel,IN
+5666,North Montpelier,VT
+5447,East Berkshire,VT
+37323,Cleveland,TN
+19801,Wilmington,DE
+89001,Alamo,NV
+65617,Brighton,MO
+64657,Mc Fall,MO
+62438,Lakewood,IL
+56228,Cosmos,MN
+3031,Amherst,NH
+52620,Bonaparte,IA
+99021,Mead,WA
+64788,Urich,MO
+49030,Burr Oak,MI
+1590,Sutton,MA
+12885,Warrensburg,NY
+12578,Salt Point,NY
+26369,Hepzibah,WV
+71282,Tallulah,LA
+61727,Clinton,IL
+6812,New Fairfield,CT
+37773,Lone Mountain,TN
+73540,Faxon,OK
+28527,Ernul,NC
+40448,Mc Kinney,KY
+59701,Butte,MT
+77465,Palacios,TX
+47929,Chalmers,IN
+95968,Palermo,CA
+59464,Moore,MT
+14488,Livonia Center,NY
+45630,Friendship,OH
+80743,Otis,CO
+1092,West Warren,MA
+10541,Mahopac,NY
+50554,Laurens,IA
+59728,Elliston,MT
+35457,Echola,AL
+44087,Twinsburg,OH
+5065,Sharon,VT
+42204,Allensville,KY
+17837,Lewisburg,PA
+73003,Edmond,OK
+98339,Port Hadlock,WA
+61730,Cooksville,IL
+41214,Debord,KY
+801,St Thomas,VI
+48466,Peck,MI
+66042,Lane,KS
+70725,Darrow,LA
+14735,Fillmore,NY
+24464,Montebello,VA
+72686,Witts Springs,AR
+14416,Bergen,NY
+31713,Arlington,GA
+30144,Kennesaw,GA
+86338,Skull Valley,AZ
+773,Luquillo,PR
+27291,Leasburg,NC
+62991,Tunnel Hill,IL
+78617,Del Valle,TX
+38341,Holladay,TN
+61754,Mc Lean,IL
+67491,Windom,KS
+7628,Dumont,NJ
+18928,Holicong,PA
+95073,Soquel,CA
+52309,Monmouth,IA
+25148,Orgas,WV
+80020,Broomfield,CO
+65285,Thompson,MO
+37037,Christiana,TN
+54734,Downing,WI
+64868,Tiff City,MO
+32759,Oak Hill,FL
+20170,Herndon,VA
+21620,Chestertown,MD
+92382,Running Springs,CA
+51008,Brunsville,IA
+76020,Azle,TX
+10576,Pound Ridge,NY
+6487,South Britain,CT
+37753,Hartford,TN
+44688,Waynesburg,OH
+7188,Newark,NJ
+53079,Saint Cloud,WI
+21610,Betterton,MD
+59751,Silver Star,MT
+10502,Ardsley,NY
+3741,Canaan,NH
+75146,Lancaster,TX
+77510,Santa Fe,TX
+30258,Molena,GA
+35068,Fultondale,AL
+66725,Columbus,KS
+97886,Weston,OR
+7946,Millington,NJ
+51014,Cleghorn,IA
+25555,Prichard,WV
+24084,Dublin,VA
+58463,Mcclusky,ND
+98352,Sumner,WA
+15301,Washington,PA
+58218,Buxton,ND
+3835,Farmington,NH
+52039,Durango,IA
+62667,Modesto,IL
+76574,Taylor,TX
+18953,Revere,PA
+68362,Gilead,NE
+66872,White City,KS
+11726,Copiague,NY
+19460,Phoenixville,PA
+96027,Etna,CA
+54858,Milltown,WI
+48658,Standish,MI
+78562,La Villa,TX
+22553,Spotsylvania,VA
+8812,Dunellen,NJ
+18424,Gouldsboro,PA
+13660,Madrid,NY
+77967,Hochheim,TX
+24986,White Sulphur Springs,WV
+13433,Port Leyden,NY
+44255,Mantua,OH
+1910,Lynn,MA
+73032,Dougherty,OK
+5603,Montpelier,VT
+8758,Waretown,NJ
+13082,Kirkville,NY
+83250,Mccammon,ID
+98025,Hobart,WA
+50607,Aurora,IA
+28663,Piney Creek,NC
+95571,Weott,CA
+15348,Millsboro,PA
+43728,Chesterhill,OH
+18577,Scranton,PA
+85326,Buckeye,AZ
+16840,Hawk Run,PA
+83864,Sandpoint,ID
+46123,Avon,IN
+4982,Stratton,ME
+12134,Northville,NY
+43021,Galena,OH
+75692,Waskom,TX
+84660,Spanish Fork,UT
+68760,Niobrara,NE
+40939,Fourmile,KY
+61450,La Harpe,IL
+93530,Keeler,CA
+2827,Greene,RI
+70393,Plattenville,LA
+68376,Humboldt,NE
+68731,Dakota City,NE
+8805,Bound Brook,NJ
+16837,Glen Richey,PA
+67744,Ludell,KS
+84637,Kanosh,UT
+83839,Kingston,ID
+17985,Zion Grove,PA
+12859,Porter Corners,NY
+84307,Corinne,UT
+13732,Apalachin,NY
+60974,Woodland,IL
+627,Camuy,PR
+81244,Rockvale,CO
+56115,Balaton,MN
+12083,Greenville,NY
+48009,Birmingham,MI
+72701,Fayetteville,AR
+65441,Bourbon,MO
+68621,Ames,NE
+89005,Boulder City,NV
+97463,Oakridge,OR
+14075,Hamburg,NY
+98830,Mansfield,WA
+18947,Pipersville,PA
+31821,Omaha,GA
+55314,Buffalo Lake,MN
+23083,Jetersville,VA
+47834,Brazil,IN
+78642,Liberty Hill,TX
+36863,Lanett,AL
+5748,Hancock,VT
+11362,Little Neck,NY
+16133,Jackson Center,PA
+62348,Lima,IL
+19565,Wernersville,PA
+32195,Weirsdale,FL
+13599,Utica,NY
+12926,Constable,NY
+38337,Gadsden,TN
+96101,Alturas,CA
+5441,Bakersfield,VT
+48161,Monroe,MI
+5490,Underhill Center,VT
+70357,Golden Meadow,LA
+81055,La Veta,CO
+79849,San Elizario,TX
+27312,Pittsboro,NC
+51011,Chatsworth,IA
+5677,Waterbury Center,VT
+60108,Bloomingdale,IL
+13638,Felts Mills,NY
+95937,Dunnigan,CA
+29636,Conestee,SC
+82945,Superior,WY
+42765,Munfordville,KY
+58532,Driscoll,ND
+43463,Stony Ridge,OH
+63745,Dutchtown,MO
+8403,Longport,NJ
+11373,Elmhurst,NY
+35463,Fosters,AL
+27229,Candor,NC
+68461,Walton,NE
+47270,Paris Crossing,IN
+2747,North Dartmouth,MA
+73001,Albert,OK
+30741,Rossville,GA
+13321,Clark Mills,NY
+32628,Cross City,FL
+3598,Whitefield,NH
+23156,Shacklefords,VA
+74445,Morris,OK
+36560,Mount Vernon,AL
+35080,Helena,AL
+43782,Shawnee,OH
+48636,Luzerne,MI
+30833,Wrens,GA
+28104,Matthews,NC
+38575,Moss,TN
+745,Rio Grande,PR
+13864,Willseyville,NY
+84539,Sunnyside,UT
+98822,Entiat,WA
+63039,Gray Summit,MO
+85536,Fort Thomas,AZ
+12427,Elka Park,NY
+98568,Oakville,WA
+78673,Walburg,TX
+12076,Gilboa,NY
+8065,Palmyra,NJ
+24938,Frankford,WV
+72556,Melbourne,AR
+71670,Tillar,AR
+4677,Sorrento,ME
+60025,Glenview,IL
+24120,Meadows Of Dan,VA
+60443,Matteson,IL
+4981,Stockton Springs,ME
+38639,Jonestown,MS
+6108,East Hartford,CT
+58638,Hebron,ND
+30436,Lyons,GA
+11516,Cedarhurst,NY
+94620,Piedmont,CA
+32958,Sebastian,FL
+49618,Boon,MI
+22644,Maurertown,VA
+37031,Castalian Springs,TN
+4032,Freeport,ME
+47522,Crane,IN
+8828,Helmetta,NJ
+62330,Dallas City,IL
+73085,Yukon,OK
+19944,Fenwick Island,DE
+60941,Herscher,IL
+68304,Alvo,NE
+42078,Salem,KY
+71424,Elmer,LA
+27243,Efland,NC
+10580,Rye,NY
+91023,Mount Wilson,CA
+73738,Garber,OK
+97018,Columbia City,OR
+37322,Decatur,TN
+97141,Tillamook,OR
+15361,Southview,PA
+56658,Margie,MN
+99015,Freeman,WA
+47551,Leopold,IN
+72175,Wabbaseka,AR
+43652,Toledo,OH
+83641,Melba,ID
+41146,Hitchins,KY
+39097,Louise,MS
+64651,Laclede,MO
+49063,Lacota,MI
+52054,La Motte,IA
+25149,Ottawa,WV
+83554,White Bird,ID
+79845,Presidio,TX
+70001,Metairie,LA
+30370,Atlanta,GA
+2886,Warwick,RI
+5040,East Corinth,VT
+11580,Valley Stream,NY
+58009,Blanchard,ND
+46567,Syracuse,IN
+70716,Bayou Goula,LA
+92676,Silverado,CA
+74467,Wagoner,OK
+62809,Barnhill,IL
+66551,Wheaton,KS
+32111,Candler,FL
+95524,Bayside,CA
+5031,Barnard,VT
+1560,South Grafton,MA
+58006,Arthur,ND
+3822,Dover,NH
+87578,Truchas,NM
+93501,Mojave,CA
+78118,Karnes City,TX
+98241,Darrington,WA
+93064,Brandeis,CA
+12582,Stormville,NY
+96063,Mineral,CA
+28318,Autryville,NC
+45304,Arcanum,OH
+49777,Presque Isle,MI
+5661,Morrisville,VT
+50223,Pilot Mound,IA
+95567,Smith River,CA
+16640,Flinton,PA
+41043,Foster,KY
+54025,Somerset,WI
+40823,Cumberland,KY
+90742,Sunset Beach,CA
+57058,Salem,SD
+15072,Pricedale,PA
+53530,Darlington,WI
+80809,Cascade,CO
+19030,Fairless Hills,PA
+83112,Bedford,WY
+20119,Catlett,VA
+63387,Whiteside,MO
+80459,Kremmling,CO
+26206,Cowen,WV
+76031,Cleburne,TX
+93637,Madera,CA
+14066,Gainesville,NY
+42285,Sweeden,KY
+48472,Snover,MI
+67523,Burdett,KS
+87931,Caballo,NM
+62638,Franklin,IL
+62076,Ohlman,IL
+28007,Ansonville,NC
+46770,Markle,IN
+15633,Forbes Road,PA
+56127,Dunnell,MN
+25046,Clio,WV
+77969,La Salle,TX
+19540,Mohnton,PA
+63853,Holland,MO
+47371,Portland,IN
+60050,Mchenry,IL
+57233,Erwin,SD
+43787,Stockport,OH
+99723,Barrow,AK
+69212,Crookston,NE
+49317,Cannonsburg,MI
+6029,Ellington,CT
+65043,Holts Summit,MO
+27230,Cedar Falls,NC
+61482,Table Grove,IL
+8330,Mays Landing,NJ
+43974,Harrisville,OH
+5483,Sheldon,VT
+15697,Youngwood,PA
+32799,Mid Florida,FL
+95635,Greenwood,CA
+41721,Buckhorn,KY
+94528,Diablo,CA
+87312,Continental Divide,NM
+26588,Rivesville,WV
+37180,Unionville,TN
+43085,Columbus,OH
+57454,Langford,SD
+6034,Farmington,CT
+48160,Milan,MI
+17324,Gardners,PA
+41606,Bevinsville,KY
+32925,Patrick Afb,FL
+92220,Banning,CA
+39176,Vaiden,MS
+32008,Branford,FL
+97368,Otis,OR
+98827,Loomis,WA
+25123,Leon,WV
+54114,Crivitz,WI
+72658,Norfork,AR
+37843,Parrottsville,TN
+2641,East Dennis,MA
+5759,North Clarendon,VT
+63049,High Ridge,MO
+2370,Rockland,MA
+14103,Medina,NY
+17572,Ronks,PA
+83001,Jackson,WY
+49814,Champion,MI
+664,Jayuya,PR
+1031,Gilbertville,MA
+15926,Central City,PA
+54130,Kaukauna,WI
+52721,Bennett,IA
+53543,Highland,WI
+99160,Orient,WA
+8884,Spotswood,NJ
+80478,Tabernash,CO
+28739,Hendersonville,NC
+12409,Bearsville,NY
+23101,Macon,VA
+98028,Kenmore,WA
+99659,Saint Michael,AK
+2367,Plympton,MA
+601,Adjuntas,PR
+73007,Arcadia,OK
+63401,Hannibal,MO
+32420,Alford,FL
+41022,Florence,KY
+48856,Middleton,MI
+35552,Detroit,AL
+95713,Colfax,CA
+61079,Shirland,IL
+4083,Springvale,ME
+49646,Kalkaska,MI
+97010,Bridal Veil,OR
+30182,Waco,GA
+23356,Greenbackville,VA
+12078,Gloversville,NY
+94581,Napa,CA
+56128,Edgerton,MN
+49459,Walkerville,MI
+35042,Centreville,AL
+28459,Shallotte,NC
+43081,Westerville,OH
+97882,Umatilla,OR
+15840,Falls Creek,PA
+6403,Beacon Falls,CT
+56134,Hardwick,MN
+60120,Elgin,IL
+26815,Sugar Grove,WV
+95628,Fair Oaks,CA
+6230,Abington,CT
+35085,Jemison,AL
+41567,Stone,KY
+53058,Nashotah,WI
+63342,Dutzow,MO
+99141,Kettle Falls,WA
+92307,Apple Valley,CA
+52356,Wellman,IA
+44082,Pierpont,OH
+26003,Wheeling,WV
+53066,Oconomowoc,WI
+18634,Nanticoke,PA
+56576,Richville,MN
+78010,Center Point,TX
+59012,Birney,MT
+25432,Millville,WV
+98943,South Cle Elum,WA
+16371,Youngsville,PA
+44679,Stillwater,OH
+83223,Bloomington,ID
+61516,Benson,IL
+65766,Udall,MO
+61411,Adair,IL
+84664,Mapleton,UT
+60440,Bolingbrook,IL
+7087,Union City,NJ
+20140,Rectortown,VA
+72717,Canehill,AR
+87527,Dixon,NM
+35962,Crossville,AL
+28355,Lemon Springs,NC
+30730,Lyerly,GA
+57212,Arlington,SD
+98236,Clinton,WA
+84646,Moroni,UT
+13749,Corbettsville,NY
+50577,Renwick,IA
+15522,Bedford,PA
+47531,Evanston,IN
+28043,Forest City,NC
+97731,Chemult,OR
+2381,White Horse Beach,MA
+97848,Kimberly,OR
+83666,Placerville,ID
+53092,Thiensville,WI
+45306,Botkins,OH
+2660,South Dennis,MA
+73537,Eldorado,OK
+79036,Fritch,TX
+74333,Bluejacket,OK
+92850,Anaheim,CA
+791,Humacao,PR
+88316,Capitan,NM
+76059,Keene,TX
+61016,Cherry Valley,IL
+11963,Sag Harbor,NY
+88136,Yeso,NM
+75487,Talco,TX
+8739,Normandy Beach,NJ
+64689,Winston,MO
+16340,Pittsfield,PA
+19481,Valley Forge,PA
+25514,Fort Gay,WV
+28751,Maggie Valley,NC
+30662,Royston,GA
+59915,Elmo,MT
+73446,Madill,OK
+95638,Herald,CA
+6277,Thompson,CT
+38316,Bradford,TN
+15551,Markleton,PA
+15140,Pitcairn,PA
+68627,Cedar Rapids,NE
+6470,Newtown,CT
+66436,Holton,KS
+89442,Wadsworth,NV
+15220,Pittsburgh,PA
+20892,Bethesda,MD
+56579,Rothsay,MN
+75556,Bloomburg,TX
+15776,Sprankle Mills,PA
+63772,Painton,MO
+18256,Weston,PA
+61431,Ellisville,IL
+86330,Iron Springs,AZ
+97147,Wheeler,OR
+26722,Green Spring,WV
+98540,East Olympia,WA
+46323,Hammond,IN
+18912,Buckingham,PA
+93463,Solvang,CA
+64850,Neosho,MO
+15724,Cherry Tree,PA
+34460,Lecanto,FL
+74553,Kiowa,OK
+54730,Colfax,WI
+29665,Newry,SC
+12472,Rosendale,NY
+58222,Crystal,ND
+14476,Kendall,NY
+44334,Fairlawn,OH
+62871,Omaha,IL
+50228,Prairie City,IA
+2338,Halifax,MA
+89048,Pahrump,NV
+48736,Gilford,MI
+64466,Maitland,MO
+51433,Auburn,IA
+77436,Egypt,TX
+32706,Cassadaga,FL
+97360,Mill City,OR
+96748,Kaunakakai,HI
+71728,Curtis,AR
+27212,Blanch,NC
+53545,Janesville,WI
+33585,Sumterville,FL
+44190,Cleveland,OH
+61753,Lexington,IL
+12973,Piercefield,NY
+56155,Lismore,MN
+75110,Corsicana,TX
+25572,Woodville,WV
+26405,Moatsville,WV
+22471,Hartwood,VA
+65717,Norwood,MO
+26586,Montana Mines,WV
+72059,Gregory,AR
+96033,French Gulch,CA
+33847,Homeland,FL
+48043,Mount Clemens,MI
+49236,Clinton,MI
+77449,Katy,TX
+1039,Haydenville,MA
+37165,Slayden,TN
+24467,Mount Sidney,VA
+80260,Denver,CO
+12093,Jefferson,NY
+57339,Fort Thompson,SD
+91311,Chatsworth,CA
+13484,West Eaton,NY
+1267,Williamstown,MA
+83336,Heyburn,ID
+21130,Perryman,MD
+2186,Milton,MA
+46120,Cloverdale,IN
+25820,Camp Creek,WV
+46154,Maxwell,IN
+17520,East Petersburg,PA
+28320,Bladenboro,NC
+73523,Altus Afb,OK
+93660,San Joaquin,CA
+56265,Montevideo,MN
+44054,Sheffield Lake,OH
+35543,Bear Creek,AL
+77332,Dallardsville,TX
+59755,Virginia City,MT
+88034,Faywood,NM
+17946,Lost Creek,PA
+28707,Balsam,NC
+29925,Hilton Head Island,SC
+25647,Switzer,WV
+1571,Dudley,MA
+7040,Maplewood,NJ
+83251,Mackay,ID
+80759,Yuma,CO
+45062,Seven Mile,OH
+70660,Singer,LA
+80532,Glen Haven,CO
+70053,Gretna,LA
+30633,Danielsville,GA
+94977,Larkspur,CA
+19096,Wynnewood,PA
+73090,Union City,OK
+86437,Valentine,AZ
+98837,Moses Lake,WA
+85350,Somerton,AZ
+78117,Hobson,TX
+37135,Nolensville,TN
+58564,Raleigh,ND
+72387,Vanndale,AR
+52170,Waterville,IA
+70340,Amelia,LA
+49276,Riga,MI
+36040,Hayneville,AL
+77411,Alief,TX
+97868,Pilot Rock,OR
+26269,Hambleton,WV
+95703,Applegate,CA
+8536,Plainsboro,NJ
+64867,Stella,MO
+7058,Pine Brook,NJ
+96715,Hanamaulu,HI
+93648,Parlier,CA
+19446,Lansdale,PA
+20695,White Plains,MD
+77399,Livingston,TX
+36759,Marion Junction,AL
+51019,Danbury,IA
+50110,Gray,IA
+56382,Swanville,MN
+28684,Todd,NC
+80832,Ramah,CO
+15779,Torrance,PA
+96743,Kamuela,HI
+4268,Norway,ME
+54016,Hudson,WI
+16728,De Young,PA
+52774,Welton,IA
+62269,O Fallon,IL
+81624,Collbran,CO
+71329,Dupont,LA
+37062,Fairview,TN
+2203,Boston,MA
+3231,East Andover,NH
+24829,Eckman,WV
+57244,Hetland,SD
+57759,Nemo,SD
+38781,Winstonville,MS
+25506,Branchland,WV
+65649,Fair Play,MO
+21152,Sparks Glencoe,MD
+51647,Northboro,IA
+95589,Whitethorn,CA
+25130,Madison,WV
+43431,Gibsonburg,OH
+12121,Melrose,NY
+66552,Whiting,KS
+62895,Wayne City,IL
+79556,Sweetwater,TX
+15017,Bridgeville,PA
+47348,Hartford City,IN
+55920,Byron,MN
+1436,Baldwinville,MA
+59337,Jordan,MT
+62553,Oconee,IL
+57363,Mount Vernon,SD
+46077,Zionsville,IN
+66938,Clyde,KS
+5442,Belvidere Center,VT
+7924,Bernardsville,NJ
+44240,Kent,OH
+25931,Summerlee,WV
+55306,Burnsville,MN
+66416,Circleville,KS
+47941,Dayton,IN
+45776,Shade,OH
+56444,Deerwood,MN
+78618,Doss,TX
+27359,Swepsonville,NC
+77588,Pearland,TX
+67859,Kismet,KS
+32062,Mc Alpin,FL
+83520,Ahsahka,ID
+98814,Carlton,WA
+97329,Cascadia,OR
+65037,Gravois Mills,MO
+58366,Rolette,ND
+7652,Paramus,NJ
+50156,Madrid,IA
+1615,Worcester,MA
+59933,Stryker,MT
+95663,Penryn,CA
+35673,Trinity,AL
+47326,Bryant,IN
+12473,Round Top,NY
+81243,Powderhorn,CO
+12068,Fonda,NY
+89412,Gerlach,NV
+21601,Easton,MD
+76455,Gustine,TX
+74330,Adair,OK
+79233,Estelline,TX
+62462,Sigel,IL
+93274,Tulare,CA
+56137,Heron Lake,MN
+18334,Long Pond,PA
+21204,Towson,MD
+1741,Carlisle,MA
+61773,Sibley,IL
+50134,Kelley,IA
+42120,Adolphus,KY
+83301,Twin Falls,ID
+37686,Piney Flats,TN
+45030,Harrison,OH
+44099,Windsor,OH
+67009,Attica,KS
+98064,Kent,WA
+65622,Buffalo,MO
+71455,Mora,LA
+31792,Thomasville,GA
+61014,Chadwick,IL
+99752,Kotzebue,AK
+79360,Seminole,TX
+22655,Stephens City,VA
+7420,Haskell,NJ
+16373,Emlenton,PA
+72847,London,AR
+8332,Millville,NJ
+93953,Pebble Beach,CA
+70359,Gray,LA
+19732,Rockland,DE
+50548,Humboldt,IA
+25919,Skelton,WV
+98380,Seabeck,WA
+8243,Sea Isle City,NJ
+66079,Rantoul,KS
+94575,Moraga,CA
+81050,La Junta,CO
+47634,Richland,IN
+67863,Marienthal,KS
+61852,Longview,IL
+56725,Goodridge,MN
+10977,Spring Valley,NY
+56177,Trosky,MN
+35651,Mount Hope,AL
+13145,Sandy Creek,NY
+74852,Macomb,OK
+61091,Woosung,IL
+43746,Hopewell,OH
+51529,Dunlap,IA
+80620,Evans,CO
+49880,Rock,MI
+8316,Dorchester,NJ
+1525,Linwood,MA
+46114,Cartersburg,IN
+66087,Troy,KS
+66541,Summerfield,KS
+50839,Carbon,IA
+15825,Brookville,PA
+8878,South Amboy,NJ
+11201,Brooklyn,NY
+4074,Scarborough,ME
+6333,East Lyme,CT
+99684,Unalakleet,AK
+61851,Ivesdale,IL
+29030,Cameron,SC
+44492,West Point,OH
+68745,Laurel,NE
+98855,Tonasket,WA
+87070,Clines Corners,NM
+35570,Hamilton,AL
+55302,Annandale,MN
+97447,Idleyld Park,OR
+14882,Lansing,NY
+72335,Forrest City,AR
+62240,East Carondelet,IL
+96040,Hat Creek,CA
+5344,Marlboro,VT
+51573,Stanton,IA
+40801,Ages Brookside,KY
+12196,West Sand Lake,NY
+4660,Mount Desert,ME
+25026,Blue Creek,WV
+43162,West Jefferson,OH
+54420,Chili,WI
+39350,Philadelphia,MS
+11411,Cambria Heights,NY
+14568,Walworth,NY
+99361,Waitsburg,WA
+79517,Fluvanna,TX
+71485,Woodworth,LA
+15012,Belle Vernon,PA
+12942,Keene,NY
+77363,Plantersville,TX
+16249,Rural Valley,PA
+67418,Barnard,KS
+22509,Loretto,VA
+57540,Holabird,SD
+55030,Grasston,MN
+98849,Riverside,WA
+15413,Allison,PA
+72170,Ulm,AR
+73448,Marietta,OK
+13685,Sackets Harbor,NY
+73008,Bethany,OK
+8021,Clementon,NJ
+61834,Danville,IL
+78008,Campbellton,TX
+62926,Dongola,IL
+21623,Church Hill,MD
+99585,Marshall,AK
+75832,Cayuga,TX
+12721,Bloomingburg,NY
+57255,New Effington,SD
+4761,New Limerick,ME
+56687,Wilton,MN
+12928,Crown Point,NY
+94516,Canyon,CA
+41822,Hindman,KY
+32054,Lake Butler,FL
+38654,Olive Branch,MS
+14210,Buffalo,NY
+4855,Port Clyde,ME
+73668,Texola,OK
+32732,Geneva,FL
+80429,Climax,CO
+65790,Pottersville,MO
+33568,Riverview,FL
+63381,Truxton,MO
+30542,Flowery Branch,GA
+3840,Greenland,NH
+39759,Starkville,MS
+58067,Rutland,ND
+7538,Haledon,NJ
+76957,Wall,TX
+28766,Penrose,NC
+39130,Madison,MS
+2645,Harwich,MA
+88036,Fort Bayard,NM
+66413,Burlingame,KS
+28678,Stony Point,NC
+16114,Clarks Mills,PA
+47322,Bentonville,IN
+75567,Maud,TX
+37389,Arnold Afb,TN
+66733,Erie,KS
+3111,Manchester,NH
+14055,East Concord,NY
+47553,Loogootee,IN
+5665,North Hyde Park,VT
+86426,Fort Mohave,AZ
+12811,Bakers Mills,NY
+93460,Santa Ynez,CA
+26184,Waverly,WV
+28088,Landis,NC
+34667,Hudson,FL
+16057,Slippery Rock,PA
+31627,Cecil,GA
+53939,Kingston,WI
+62451,Palestine,IL
+41035,Dry Ridge,KY
+1259,Southfield,MA
+89003,Beatty,NV
+60001,Alden,IL
+31013,Clinchfield,GA
+20740,College Park,MD
+30639,Franklin Springs,GA
+97135,Pacific City,OR
+45684,Stout,OH
+54830,Danbury,WI
+63431,Anabel,MO
+89424,Nixon,NV
+38076,Williston,TN
+61546,Manito,IL
+21037,Edgewater,MD
+61328,Kasbeer,IL
+85637,Sonoita,AZ
+72137,Rose Bud,AR
+70580,Reddell,LA
+5059,Quechee,VT
+76849,Junction,TX
+81153,San Pablo,CO
+12518,Cornwall,NY
+67882,Wright,KS
+84523,Ferron,UT
+10981,Sugar Loaf,NY
+44856,North Robinson,OH
+77979,Port Lavaca,TX
+99159,Odessa,WA
+72443,Marmaduke,AR
+28589,Williston,NC
+6013,Burlington,CT
+29664,Mountain Rest,SC
+36069,Ramer,AL
+26845,Old Fields,WV
+47852,Graysville,IN
+74577,Whitesboro,OK
+28080,Iron Station,NC
+65283,Stoutsville,MO
+39629,Bogue Chitto,MS
+36528,Dauphin Island,AL
+48747,Munger,MI
+62684,Sherman,IL
+59031,Garryowen,MT
+17075,Newton Hamilton,PA
+95492,Windsor,CA
+47246,Hope,IN
+32728,Deltona,FL
+27340,Saxapahaw,NC
+62664,Mason City,IL
+24401,Staunton,VA
+76935,Christoval,TX
+28551,La Grange,NC
+92324,Colton,CA
+75080,Richardson,TX
+33036,Islamorada,FL
+76622,Aquilla,TX
+35014,Alpine,AL
+80701,Fort Morgan,CO
+74850,Lamar,OK
+3751,Georges Mills,NH
+56292,Vesta,MN
+70056,Gretna,LA
+14042,Delevan,NY
+64841,Duenweg,MO
+50647,Janesville,IA
+92019,El Cajon,CA
+30148,Marble Hill,GA
+14872,Pine Valley,NY
+8751,Seaside Heights,NJ
+35459,Emelle,AL
+67550,Larned,KS
+60919,Cabery,IL
+71322,Bunkie,LA
+41222,Hagerhill,KY
+48220,Ferndale,MI
+91945,Lemon Grove,CA
+46765,Leo,IN
+97741,Madras,OR
+49201,Jackson,MI
+18913,Carversville,PA
+76374,Olney,TX
+35055,Cullman,AL
+74646,Nardin,OK
+65201,Columbia,MO
+95525,Blue Lake,CA
+88254,Lakewood,NM
+15930,Dunlo,PA
+54952,Menasha,WI
+93665,South Dos Palos,CA
+12441,Highmount,NY
+63362,Moscow Mills,MO
+54724,Bloomer,WI
+30522,Cherrylog,GA
+12193,Westerlo,NY
+26838,Milam,WV
+83525,Elk City,ID
+27053,Westfield,NC
+24577,Nathalie,VA
+31050,Knoxville,GA
+81637,Gypsum,CO
+54550,Montreal,WI
+99695,Anchorage,AK
+37727,Del Rio,TN
+48659,Sterling,MI
+48835,Fowler,MI
+8015,Browns Mills,NJ
+70082,Pointe A La Hache,LA
+48426,Decker,MI
+49263,Norvell,MI
+99016,Greenacres,WA
+28090,Lawndale,NC
+96797,Waipahu,HI
+29340,Gaffney,SC
+14692,Rochester,NY
+50662,Oelwein,IA
+41817,Garner,KY
+31004,Bolingbroke,GA
+84717,Bryce Canyon,UT
+38619,Como,MS
+98565,Napavine,WA
+85241,Picacho,AZ
+84306,Collinston,UT
+2211,Boston,MA
+24892,War,WV
+6419,Killingworth,CT
+37333,Farner,TN
+49061,Jones,MI
+87581,Vallecitos,NM
+37186,Westmoreland,TN
+60022,Glencoe,IL
+53140,Kenosha,WI
+12438,Halcottsville,NY
+31814,Louvale,GA
+15420,Cardale,PA
+8826,Glen Gardner,NJ
+21087,Kingsville,MD
+53035,Iron Ridge,WI
+14871,Pine City,NY
+4966,Phillips,ME
+95639,Hood,CA
+50682,Winthrop,IA
+98591,Toledo,WA
+47866,Pimento,IN
+77406,Richmond,TX
+68817,Ashton,NE
+66052,Linwood,KS
+76433,Bluff Dale,TX
+56246,Hawick,MN
+95309,Chinese Camp,CA
+30620,Bethlehem,GA
+10301,Staten Island,NY
+99829,Hoonah,AK
+75973,Shelbyville,TX
+98366,Port Orchard,WA
+58549,Kintyre,ND
+16402,Bear Lake,PA
+61471,Raritan,IL
+10926,Harriman,NY
+10570,Pleasantville,NY
+29565,Latta,SC
+56569,Ogema,MN
+21713,Boonsboro,MD
+74046,Milfay,OK
+61857,Muncie,IL
+95468,Point Arena,CA
+58259,Michigan,ND
+54160,Potter,WI
+40143,Hardinsburg,KY
+96917,Inarajan,GU
+27282,Jamestown,NC
+17581,Terre Hill,PA
+45679,Seaman,OH
+71111,Bossier City,LA
+84530,La Sal,UT
+54756,Nelson,WI
+87740,Raton,NM
+29112,North,SC
+61517,Brimfield,IL
+93664,Shaver Lake,CA
+54119,Dunbar,WI
+38879,Verona,MS
+57362,Miller,SD
+32501,Pensacola,FL
+19441,Harleysville,PA
+63782,Sturdivant,MO
+18036,Coopersburg,PA
+41774,Viper,KY
+78148,Universal City,TX
+46550,Nappanee,IN
+91402,Panorama City,CA
+47969,Newtown,IN
+1144,Springfield,MA
+97856,Long Creek,OR
+45729,Fleming,OH
+33539,Zephyrhills,FL
+48041,Memphis,MI
+78069,Somerset,TX
+54204,Brussels,WI
+62568,Taylorville,IL
+18011,Alburtis,PA
+64432,Clyde,MO
+95608,Carmichael,CA
+78341,Benavides,TX
+45787,Watertown,OH
+38564,Granville,TN
+71281,Swartz,LA
+95573,Willow Creek,CA
+60034,Hebron,IL
+95662,Orangevale,CA
+81040,Gardner,CO
+24570,Lowry,VA
+10516,Cold Spring,NY
+77484,Waller,TX
+68838,Farwell,NE
+72182,Wright,AR
+77660,Spurger,TX
+64730,Butler,MO
+81523,Glade Park,CO
+12780,Sparrow Bush,NY
+62439,Lawrenceville,IL
+75959,Milam,TX
+31023,Eastman,GA
+53001,Adell,WI
+63882,Wyatt,MO
+38340,Henderson,TN
+48733,Fairgrove,MI
+73945,Hooker,OK
+68420,Pawnee City,NE
+78608,Briggs,TX
+81144,Monte Vista,CO
+27871,Robersonville,NC
+48860,Muir,MI
+16350,Sugar Grove,PA
+3451,Hinsdale,NH
+13863,Willet,NY
+44202,Aurora,OH
+22952,Lyndhurst,VA
+30011,Auburn,GA
+28092,Lincolnton,NC
+79031,Earth,TX
+81620,Avon,CO
+54166,Shawano,WI
+27690,Raleigh,NC
+2643,East Orleans,MA
+45835,Dola,OH
+49422,Holland,MI
+62942,Grand Tower,IL
+71601,Pine Bluff,AR
+57045,Menno,SD
+55027,Goodhue,MN
+71232,Delhi,LA
+56291,Taunton,MN
+37016,Auburntown,TN
+33050,Marathon,FL
+34228,Longboat Key,FL
+2769,Rehoboth,MA
+73078,Piedmont,OK
+59412,Belt,MT
+24639,Raven,VA
+12986,Tupper Lake,NY
+3911,York Harbor,ME
+65322,Blackwater,MO
+7703,Fort Monmouth,NJ
+63764,Marble Hill,MO
+99685,Unalaska,AK
+38745,Grace,MS
+53503,Arena,WI
+23002,Amelia Court House,VA
+777,Juncos,PR
+92341,Green Valley Lake,CA
+72139,Russell,AR
+21840,Nanticoke,MD
+21903,Perryville,MD
+95666,Pioneer,CA
+30079,Scottdale,GA
+17723,Jersey Shore,PA
+60512,Bristol,IL
+43533,Lyons,OH
+13437,Redfield,NY
+32046,Hilliard,FL
+76010,Arlington,TX
+76369,Kamay,TX
+21650,Massey,MD
+34491,Summerfield,FL
+15545,Hyndman,PA
+70552,Loreauville,LA
+60970,Watseka,IL
+67460,Mcpherson,KS
+32068,Middleburg,FL
+88343,Picacho,NM
+18411,Clarks Summit,PA
+47978,Rensselaer,IN
+25015,Belle,WV
+55332,Fairfax,MN
+55339,Hamburg,MN
+23069,Hanover,VA
+71078,Stonewall,LA
+27377,Whitsett,NC
+18046,East Texas,PA
+3848,Kingston,NH
+13752,De Lancey,NY
+65340,Marshall,MO
+90680,Stanton,CA
+97075,Beaverton,OR
+37801,Maryville,TN
+68133,Papillion,NE
+17006,Blain,PA
+78576,Penitas,TX
+7004,Fairfield,NJ
+45381,West Alexandria,OH
+26547,Reedsville,WV
+43158,Union Furnace,OH
+13324,Cold Brook,NY
+52758,Mc Causland,IA
+56096,Waterville,MN
+16645,Glen Hope,PA
+25547,Pecks Mill,WV
+20912,Takoma Park,MD
+23939,Evergreen,VA
+75652,Henderson,TX
+98243,Deer Harbor,WA
+73852,Mooreland,OK
+71839,Garland City,AR
+19401,Norristown,PA
+32719,Winter Springs,FL
+84667,Wales,UT
+88321,Encino,NM
+74855,Meeker,OK
+49667,Merritt,MI
+13303,Ava,NY
+95451,Kelseyville,CA
+16648,Hollidaysburg,PA
+21088,Lineboro,MD
+77982,Port O Connor,TX
+44278,Tallmadge,OH
+11757,Lindenhurst,NY
+49257,Moscow,MI
+59528,Hingham,MT
+74461,Stidham,OK
+37722,Cosby,TN
+5620,Montpelier,VT
+96732,Kahului,HI
+2445,Brookline,MA
+47445,Midland,IN
+71854,Texarkana,AR
+71328,Deville,LA
+49416,Glenn,MI
+81140,La Jara,CO
+6134,Hartford,CT
+27031,White Plains,NC
+29718,Jefferson,SC
+63389,Winfield,MO
+29931,Lobeco,SC
+16120,Enon Valley,PA
+54561,Star Lake,WI
+93040,Piru,CA
+12853,North Creek,NY
+50058,Coon Rapids,IA
+94044,Pacifica,CA
+61850,Indianola,IL
+8722,Beachwood,NJ
+54001,Amery,WI
+37076,Hermitage,TN
+77986,Sublime,TX
+58651,Rhame,ND
+44046,Huntsburg,OH
+38449,Ardmore,TN
+28581,Stacy,NC
+95548,Klamath,CA
+93616,Del Rey,CA
+49778,Brimley,MI
+81645,Minturn,CO
+6033,Glastonbury,CT
+62823,Cisne,IL
+69028,Eustis,NE
+86301,Prescott,AZ
+45740,Jacksonville,OH
+21230,Baltimore,MD
+43335,Martel,OH
+65734,Purdy,MO
+62814,Bluford,IL
+42634,Parkers Lake,KY
+1097,Woronoco,MA
+64744,El Dorado Springs,MO
+77480,Sweeny,TX
+29325,Clinton,SC
+43067,Raymond,OH
+24260,Honaker,VA
+94018,El Granada,CA
+11713,Bellport,NY
+28605,Blowing Rock,NC
+46798,Yoder,IN
+21541,Mc Henry,MD
+94963,San Geronimo,CA
+75488,Telephone,TX
+55014,Circle Pines,MN
+61817,Catlin,IL
+46792,Warren,IN
+36538,Frankville,AL
+56685,Waskish,MN
+43777,Roseville,OH
+30460,Statesboro,GA
+50423,Britt,IA
+94571,Rio Vista,CA
+27207,Bear Creek,NC
+50707,Evansdale,IA
+61006,Ashton,IL
+58079,Wheatland,ND
+81328,Mancos,CO
+85501,Globe,AZ
+6611,Trumbull,CT
+78111,Ecleto,TX
+58051,Kindred,ND
+67581,Sylvia,KS
+12751,Kiamesha Lake,NY
+24219,Big Stone Gap,VA
+5901,Averill,VT
+50455,Mc Intire,IA
+76525,Evant,TX
+99130,Garfield,WA
+12776,Roscoe,NY
+49969,Watersmeet,MI
+14708,Alma,NY
+4694,Baileyville,ME
+54457,Nekoosa,WI
+14420,Brockport,NY
+70470,Mandeville,LA
+49784,Kincheloe,MI
+65688,Brandsville,MO
+49770,Petoskey,MI
+71021,Cullen,LA
+72128,Poyen,AR
+72314,Birdeye,AR
+71836,Foreman,AR
+24605,Bluefield,VA
+1229,Glendale,MA
+45111,Camp Dennison,OH
+58789,Upham,ND
+28515,Bayboro,NC
+25851,Harper,WV
+54529,Harshaw,WI
+74943,Lequire,OK
+44470,Southington,OH
+1822,Billerica,MA
+70645,Hackberry,LA
+30056,Newborn,GA
+72176,Ward,AR
+27520,Clayton,NC
+7866,Rockaway,NJ
+71240,Fairbanks,LA
+61275,Port Byron,IL
+1821,Billerica,MA
+26421,Pullman,WV
+79012,Bushland,TX
+52768,Princeton,IA
+49922,Dollar Bay,MI
+36345,Headland,AL
+57778,Rochford,SD
+7740,Long Branch,NJ
+56072,New Richland,MN
+50141,Laurel,IA
+99689,Yakutat,AK
+74031,Foyil,OK
+61564,South Pekin,IL
+24977,Smoot,WV
+98561,Menlo,WA
+47369,Pennville,IN
+78144,Panna Maria,TX
+1088,West Hatfield,MA
+37063,Fosterville,TN
+48870,Palo,MI
+67029,Coldwater,KS
+16146,Sharon,PA
+40844,Hoskinston,KY
+35746,Fackler,AL
+80130,Littleton,CO
+22093,Ashburn,VA
+12572,Rhinebeck,NY
+42344,Graham,KY
+52241,Coralville,IA
+21783,Smithsburg,MD
+26229,Lorentz,WV
+59801,Missoula,MT
+13084,La Fayette,NY
+91302,Calabasas,CA
+23396,Oak Hall,VA
+7726,Englishtown,NJ
+42501,Somerset,KY
+15489,West Leisenring,PA
+55736,Floodwood,MN
+24634,Pilgrims Knob,VA
+62661,Loami,IL
+95446,Guerneville,CA
+7627,Demarest,NJ
+59720,Cameron,MT
+35045,Clanton,AL
+61319,Cornell,IL
+77443,Glen Flora,TX
+27867,Potecasi,NC
+72424,Datto,AR
+38651,Nesbit,MS
+38952,Schlater,MS
+62063,Medora,IL
+99614,Kipnuk,AK
+29163,Vance,SC
+99506,Elmendorf Afb,AK
+47660,Oakland City,IN
+98342,Indianola,WA
+3883,South Tamworth,NH
+79759,Notrees,TX
+14819,Cameron,NY
+21060,Glen Burnie,MD
+78570,Mercedes,TX
+99332,Hatton,WA
+29696,West Union,SC
+98235,Clearlake,WA
+22723,Hood,VA
+42274,Rockfield,KY
+77709,Voth,TX
+61554,Pekin,IL
+60630,Chicago,IL
+93401,San Luis Obispo,CA
+36559,Montrose,AL
+95587,Piercy,CA
+18035,Cherryville,PA
+92561,Mountain Center,CA
+86431,Chloride,AZ
+82190,Yellowstone National Park,WY
+29448,Harleyville,SC
+81089,Walsenburg,CO
+36913,Melvin,AL
+32531,Baker,FL
+62628,Chapin,IL
+15469,Normalville,PA
+51545,Little Sioux,IA
+60073,Round Lake,IL
+15478,Smithfield,PA
+31625,Barney,GA
+52777,Wheatland,IA
+8063,National Park,NJ
+28479,Winnabow,NC
+17353,Orrtanna,PA
+16613,Ashville,PA
+6820,Darien,CT
+5851,Lyndonville,VT
+73950,Turpin,OK
+62475,West Liberty,IL
+20660,Morganza,MD
+12927,Cranberry Lake,NY
+96097,Yreka,CA
+72376,Proctor,AR
+97630,Lakeview,OR
+77470,Rock Island,TX
+25211,Widen,WV
+41033,De Mossville,KY
+43518,Edon,OH
+68002,Arlington,NE
+67334,Chautauqua,KS
+3838,Glen,NH
+30084,Tucker,GA
+67470,New Cambria,KS
+17724,Canton,PA
+12074,Galway,NY
+68719,Bristow,NE
+15327,Dilliner,PA
+97752,Post,OR
+18449,Orson,PA
+4459,Mattawamkeag,ME
+36574,Seminole,AL
+68933,Clay Center,NE
+31024,Eatonton,GA
+66953,Linn,KS
+35482,Samantha,AL
+50070,Dexter,IA
+28615,Creston,NC
+29922,Garnett,SC
+49688,Tustin,MI
+36257,De Armanville,AL
+11565,Malverne,NY
+8033,Haddonfield,NJ
+47469,West Baden Springs,IN
+34972,Okeechobee,FL
+88230,Dexter,NM
+54642,Melrose,WI
+5746,Gaysville,VT
+98552,Humptulips,WA
+50258,Union,IA
+40117,Ekron,KY
+18243,Pardeesville,PA
+76001,Arlington,TX
+41179,Vanceburg,KY
+30042,Lawrenceville,GA
+19734,Townsend,DE
+81420,Lazear,CO
+60934,Emington,IL
+36253,Bynum,AL
+52212,Center Junction,IA
+24588,Rustburg,VA
+55075,South Saint Paul,MN
+32726,Eustis,FL
+12782,Sundown,NY
+78547,Garciasville,TX
+2714,Dartmouth,MA
+15030,Creighton,PA
+85621,Nogales,AZ
+45772,Reedsville,OH
+97732,Crane,OR
+49707,Alpena,MI
+48888,Stanton,MI
+57433,Columbia,SD
+12571,Red Hook,NY
+13438,Remsen,NY
+68439,Staplehurst,NE
+16444,Edinboro,PA
+13859,Wells Bridge,NY
+31746,Edison,GA
+45356,Piqua,OH
+54123,Forest Junction,WI
+35127,Pleasant Grove,AL
+6161,Hartford,CT
+41408,Cannel City,KY
+3290,Nottingham,NH
+15323,Claysville,PA
+72042,De Witt,AR
+77441,Fulshear,TX
+87401,Farmington,NM
+77977,Placedo,TX
+25843,Ghent,WV
+87012,Coyote,NM
+37167,Smyrna,TN
+6248,Hebron,CT
+5841,Greensboro,VT
+13647,Hannawa Falls,NY
+24068,Christiansburg,VA
+47467,Tunnelton,IN
+7436,Oakland,NJ
+25266,Newton,WV
+4288,West Minot,ME
+66451,Lyndon,KS
+46555,North Webster,IN
+73744,Hitchcock,OK
+15415,Brier Hill,PA
+77345,Humble,TX
+41063,Morning View,KY
+57259,Revillo,SD
+4219,Bryant Pond,ME
+96750,Kealakekua,HI
+17272,Zullinger,PA
+63015,Catawissa,MO
+14812,Beaver Dams,NY
+85924,Concho,AZ
+2215,Boston,MA
+75650,Hallsville,TX
+33583,Seffner,FL
+29014,Blackstock,SC
+12819,Clemons,NY
+76887,Voca,TX
+83213,Arco,ID
+60094,Palatine,IL
+59059,Musselshell,MT
+54531,Hazelhurst,WI
+4416,Bucksport,ME
+20180,Lovettsville,VA
+13354,Holland Patent,NY
+64420,Allendale,MO
+4278,Rumford Center,ME
+24258,Hiltons,VA
+93286,Woodlake,CA
+17831,Hummels Wharf,PA
+95693,Wilton,CA
+85923,Clay Springs,AZ
+95654,Martell,CA
+72048,Ethel,AR
+65444,Bucyrus,MO
+67524,Chase,KS
+92233,Calipatria,CA
+35986,Rainsville,AL
+47620,Mount Vernon,IN
+58048,Hunter,ND
+47235,Freetown,IN
+44232,Green,OH
+95697,Yolo,CA
+72543,Heber Springs,AR
+76273,Whitesboro,TX
+43510,Colton,OH
+17747,Loganton,PA
+18239,Milnesville,PA
+80610,Ault,CO
+47172,Sellersburg,IN
+52585,Richland,IA
+67112,Nashville,KS
+73056,Marshall,OK
+38047,Lenox,TN
+17261,South Mountain,PA
+46945,Leiters Ford,IN
+60467,Orland Park,IL
+91354,Valencia,CA
+74630,Billings,OK
+60462,Orland Park,IL
+84023,Dutch John,UT
+12451,Leeds,NY
+24487,Williamsville,VA
+92363,Needles,CA
+25162,Pratt,WV
+8006,Barnegat Light,NJ
+1011,Chester,MA
+76836,Doole,TX
+31770,Newton,GA
+1568,Upton,MA
+44003,Andover,OH
+51630,Blanchard,IA
+71674,Watson,AR
+23139,Powhatan,VA
+17213,Blairs Mills,PA
+24165,Spencer,VA
+65014,Bland,MO
+20897,Suburb Maryland Fac,MD
+25908,Princewick,WV
+14744,Houghton,NY
+74435,Gore,OK
+28375,Proctorville,NC
+2783,Taunton,MA
+11722,Central Islip,NY
+97128,Mcminnville,OR
+49621,Cedar,MI
+21133,Randallstown,MD
+72512,Horseshoe Bend,AR
+42566,Yosemite,KY
+13656,La Fargeville,NY
+12506,Bangall,NY
+74432,Eufaula,OK
+84095,South Jordan,UT
+27956,Maple,NC
+29379,Union,SC
+55082,Stillwater,MN
+28601,Hickory,NC
+8869,Raritan,NJ
+99824,Douglas,AK
+30751,Tennga,GA
+30515,Buford,GA
+47116,Eckerty,IN
+32147,Hollister,FL
+30176,Tallapoosa,GA
+30439,Metter,GA
+63881,Wolf Island,MO
+10549,Mount Kisco,NY
+68659,Rogers,NE
+33946,Placida,FL
+98230,Blaine,WA
+61832,Danville,IL
+67632,Damar,KS
+7608,Teterboro,NJ
+72471,Swifton,AR
+62014,Bunker Hill,IL
+2646,Harwich Port,MA
+29569,Loris,SC
+97641,Christmas Valley,OR
+72949,Ozark,AR
+59254,Plentywood,MT
+71071,Sarepta,LA
+53536,Evansville,WI
+3044,Fremont,NH
+13317,Canajoharie,NY
+96768,Makawao,HI
+97465,Port Orford,OR
+94914,Kentfield,CA
+53017,Colgate,WI
+92860,Norco,CA
+15351,Nemacolin,PA
+97736,Frenchglen,OR
+62550,Moweaqua,IL
+27553,Manson,NC
+45317,Conover,OH
+48116,Brighton,MI
+41465,Salyersville,KY
+72610,Alco,AR
+12768,Parksville,NY
+70784,Wakefield,LA
+32061,Lulu,FL
+83217,Bancroft,ID
+93243,Lebec,CA
+25147,Ohley,WV
+7801,Dover,NJ
+99783,Wales,AK
+68007,Bennington,NE
+42347,Hartford,KY
+68716,Beemer,NE
+73082,Rush Springs,OK
+76844,Goldthwaite,TX
+29430,Bethera,SC
+68328,Clatonia,NE
+92029,Escondido,CA
+22663,White Post,VA
+19003,Ardmore,PA
+4336,Augusta,ME
+41549,Myra,KY
+95560,Redway,CA
+54421,Colby,WI
+61085,Stockton,IL
+47974,Perrysville,IN
+71454,Montgomery,LA
+70524,Chataignier,LA
+23936,Dillwyn,VA
+17773,Tylersville,PA
+57349,Howard,SD
+11787,Smithtown,NY
+39140,Newhebron,MS
+32577,Molino,FL
+77519,Batson,TX
+46989,Upland,IN
+14650,Rochester,NY
