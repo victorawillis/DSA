@@ -1,4 +1,4 @@
-// Vic Willis VAW42D, Homework 2, CS2050, Summer 2018
+// Vic Willis - linked list store
 
 #include <stdio.h>
 #include <stdlib.h>
